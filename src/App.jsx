@@ -104,8 +104,8 @@ function App() {
       Object.keys(questionsData).forEach(key => {
         qList = [...qList, ...questionsData[key]];
       });
-      // Force shuffle for mixed mode
-      qList = shuffleArray([...qList]);
+      // Force shuffle for mixed mode and take exactly 20 questions
+      qList = shuffleArray([...qList]).slice(0, 20);
       setSubCategoryTitle(null);
     } else {
       qList = [...questionsData[catId]];
@@ -218,9 +218,9 @@ function App() {
             <div className="banner glass-card">
               <div className="banner-glow"></div>
               <h1>Plugga till Förarintyget</h1>
-              <p>Träna på sjökortssymboler, navigering, väjningsregler och sjösäkerhet. Testa dina kunskaper inför provet.</p>
+              <p>Träna på sjökortssymboler, navigering, väjningsregler och sjösäkerhet. Kör ett snabbtest med 20 slumpade frågor från alla övningskategorier.</p>
               <button className="btn btn-accent btn-lg" onClick={() => startQuiz('mixed')}>
-                Kör direkt (Blandade frågor)
+                Kör direkt (20 slumpade frågor)
               </button>
               
               <div style={{ marginTop: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '8px' }}>
