@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="100"
+   height="100"
+   id="svg1907">
+  <defs
+     id="defs1909" />
+  <g
+     id="layer1">
+    <g
+       transform="translate(4.246425e-8,3.109001)"
+       id="g1915">
+      <rect
+         width="100.00003"
+         height="100"
+         x="-4.2464254e-008"
+         y="-3.1090012"
+         style="fill:#cb001d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1972" />
+      <rect
+         width="80.000023"
+         height="80"
+         x="10.000003"
+         y="6.8909988"
+         style="fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1876" />
+      <path
+         d="M 38.04279,30.156706 L 38.04279,48.019516 L 13.45374,48.019516 L 28.10446,64.40214 L 10,64.40214 L 10,76.162999 L 90,76.162999 L 90,64.40214 L 71.89553,64.40214 L 86.54625,48.019516 L 61.9572,48.019516 L 61.9572,30.156706 L 38.04279,30.156706 z "
+         style="fill:black"
+         id="path1914" />
+    </g>
+  </g>
+</svg>

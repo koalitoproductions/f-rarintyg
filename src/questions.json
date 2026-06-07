@@ -1,0 +1,2700 @@
+{
+  "prov1": [
+    {
+      "id": "p1_s1_q1",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "1",
+      "question": "Hur lång är en nautisk mil (M) uttryckt i meter?",
+      "answer": "Cirka 1852 meter.",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q2",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "2",
+      "question": "Hur många meter i verkligheten är 2 mm i ett sjökort med skalan 1:50 000?",
+      "answer": "100 meter.",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q3",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "3",
+      "question": "Vad heter sjökortstypen som har störst skala (mest detaljrik)?",
+      "answer": "Specialkort.",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q4",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "4",
+      "question": "När du ska mäta distans i sjökortet, gör du det på latitud eller longitudskalan?",
+      "answer": "Latitudskalan.",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q5",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "5",
+      "question": "Hur håller du dina sjökort uppdaterade?",
+      "answer": "Genom att uppdatera sjökorten med de kostnadsfria uppdateringar som släpps\npå sjöfartsverkets hemsida (UFS, Underrättelser för sjöfarande).",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q6",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "6",
+      "question": "Hur många distansminuter går det på en hel grad?",
+      "answer": "60.",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q7",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "7",
+      "question": "Vad betyder beteckningarna Cy, S och ST i sjökortet?",
+      "answer": "Cy = Lera (Clay), S = Sand (Sand) och St = Stenar (Stones).",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q8",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "8",
+      "question": "Hur stor är missvisningen i sjökort 616 år 2010 eller 2020*?\n* - Du som använder övningssjökort daterat 24 sep 2012 svarar på frågan för år 2010 och du\nsom använder övningssjökort daterat 28 aug 2020 svarar för år 2020.",
+      "answer": "År 2010: Svar: 5,0° År 2020: Svar: 6,5°",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q9",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "9",
+      "question": "Vad betyder symbolen med en pil och två prickar i sjökort 616, cirka 1M\nnordost om fyren Östra Rökö?",
+      "answer": "Pilen visar farledens huvudriktning.",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q10",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "10",
+      "question": "Vad kallas ett sjökort med en tresiffrig benämning (exvis 616) respektive ett\nsjökort med en fyrsiffrig benämning (exvis 6163)?",
+      "answer": "Tresiffrig = Skärgårdskort. Fyrsiffrig = Specialkort.",
+      "images": []
+    },
+    {
+      "id": "p1_s1_q11",
+      "section": "Område 1 – Sjökort, symboler och förkortningar i sjökortet",
+      "question_number": "11",
+      "question": "Vad betyder märkena nedan?\nMärke 1\nMärke 2\nMärke 3",
+      "answer": "Märke 1\nFörbud mot ankring.\nMärke 2\nFartbegränsning (ex 5 knop).\nMärke 3\nSegelfri höjd under bro, ledning\neller annat hinder över vattnet.",
+      "images": [
+        "Ovningsprov_Forarintyg_-_1_p2_i2_26.png",
+        "Ovningsprov_Forarintyg_-_1_p2_i0_28.png",
+        "Ovningsprov_Forarintyg_-_1_p2_i1_30.png"
+      ]
+    },
+    {
+      "id": "p1_s2_q1",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "1",
+      "question": "Om du kommer söderifrån och går mot Dalarö, bör du gå ända fram till\nDalarö med sjökort 616?",
+      "answer": "Den breda gröna linjen i kort 616 indikerar att det finns ett sjökort i större\nskala innanför linjen, som jag ska använda. I detta fall sjökort 6163.",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q2",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "2",
+      "question": "Hur många sjömil är det mellan punkten B och punkten C i övningssjökort 616\n(mät med passaren)?",
+      "answer": "Cirka 8 M.",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q3",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "3",
+      "question": "I vilken position står fyren Söderhäll i sjökort 616? Svara i latitud och\nlongitud.",
+      "answer": "59°00,70N, 18°14,75E",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q4",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "4",
+      "question": "Vad finns vid positionen 58°55,70N, 18°29,88E i sjökort 616?",
+      "answer": "Ett västmärke.",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q5",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "5",
+      "question": "På vilken sida om båten ska du ha märket i fråga 4 ovan, om du kommer\nsöderifrån och går i nordlig kurs?",
+      "answer": "Du ska passera med märket på din styrbordssida då märket står väst om\nhindret.",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q6",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "6",
+      "question": "Vilken kurs ska du gå på om du är vid fyren Mysingeholm och ska gå till fyren\nÖrngrund i skökort 616?",
+      "answer": "Cirka 230°",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q7",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "7",
+      "question": "Vad är en bäring?",
+      "answer": "En bäring är vinkeln mellan nord och den linje till ett föremål du siktar.\nBäringar och kurser anges på samma sätt, mellan 0° och 360°. Bäringen är inte beroende av\nvilken kurs du har, utan av den position du befinner dig på.",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q8",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "8",
+      "question": "Hur långt har du färdats i M, om du går i 6 knop i fyra timmar?",
+      "answer": "24 M (Distans = Fart x Tiden. 6 knop x 4 timmar = 24 M)",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q9",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "9",
+      "question": "Hur kan du avgöra om du är på kollisionskurs med ett annat fartyg?",
+      "answer": "Om bäringen förblir oförändrad till det andra fartyget är jag på kollisionskurs.",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q10",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "10",
+      "question": "Vad menas med begreppet ”Säker fart”?",
+      "answer": "Att man kör säkert och respektfullt utifrån situationen i trafikläget och\nomgivningen med hänsyn tagen till sikt och andra väderförhållanden.",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q11",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "11",
+      "question": "När ska lanternorna vara tända?",
+      "answer": "Från skymning till gryning samt vid nedsatt sikt.",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q12",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "12",
+      "question": "Två motorbåtar möts med stävarna mot varandra, vem väjer?",
+      "answer": "Båda girar styrbord (högertrafik till sjöss också).",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q13",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "13",
+      "question": "Du går för segel i en inre farled i Stockholms skärgård med din segelbåt på 12\nmeter. Du möter passagerarfärjan Viking Line som går för motor, vem väjer?",
+      "answer": "Du väjer och håller undan då det är en trång farled och passagerarfärjan har\nsvårt att manövrera inne i skärgården.",
+      "images": []
+    },
+    {
+      "id": "p1_s2_q14",
+      "section": "Område 2 – Navigering och sjötrafikregler",
+      "question_number": "14",
+      "question": "Du ser en båt som ligger ankrad och har en vit och blåtungad flagga hissad.\nVad betyder det och hur ska du agera?",
+      "answer": "Båten har dykare nere i vattnet. Du ska passera med avstånd och extra utkik\nsamt om möjligt med propeller i friläge.",
+      "images": []
+    },
+    {
+      "id": "p1_s3_q1",
+      "section": "Område 3 – Säkerhet, sjömanskap och sjukvård",
+      "question_number": "1",
+      "question": "Vad kan du göra för att förebygga sjösjuka?",
+      "answer": "Var mätt (och ha tilltugg tillgängligt). Var utvilad. Var uppe i sittbrunnen eller\nute på båten så att du ser land eller horisonten och får mycket frisk luft.",
+      "images": []
+    },
+    {
+      "id": "p1_s3_q2",
+      "section": "Område 3 – Säkerhet, sjömanskap och sjukvård",
+      "question_number": "2",
+      "question": "Vad gör du om en person är kraftigt nedkyld?",
+      "answer": "Larmar efter hjälp (112) och värmer sedan upp personen mycket försiktigt med\nhjälp av torra kläder och filtar. Ger absolut inte alkohol eller sätter personen i en bastu!",
+      "images": []
+    },
+    {
+      "id": "p1_s3_q3",
+      "section": "Område 3 – Säkerhet, sjömanskap och sjukvård",
+      "question_number": "3",
+      "question": "Hur lång ankarlina ska du släppa ut om du ska ankra på 4 meters djup?",
+      "answer": "Ca 20 meter (5-6 gånger djupet).",
+      "images": []
+    },
+    {
+      "id": "p1_s3_q4",
+      "section": "Område 3 – Säkerhet, sjömanskap och sjukvård",
+      "question_number": "4",
+      "question": "Du blir biten av en huggorm på en ö, vad gör du?",
+      "answer": "Ringer sjukvårdsupplysningen (1177), vilar och håller, om möjligt, den\nkroppsdel där bettet är högt.",
+      "images": []
+    },
+    {
+      "id": "p1_s3_q5",
+      "section": "Område 3 – Säkerhet, sjömanskap och sjukvård",
+      "question_number": "5",
+      "question": "En brandsläckare har beteckningen ABC, vad står det för?",
+      "answer": "A - för fibrösa bränslen (trä & textil), B vätskeformiga bränslen (bensin &\nolja) och C gasformiga bränslen och el.",
+      "images": []
+    },
+    {
+      "id": "p1_s4_q1",
+      "section": "Område 4 – Miljö",
+      "question_number": "1",
+      "question": "Får du tömma septitanken på båten, om du befinner dig på en stor öppen\nfjärd?",
+      "answer": "Nej, den ska tömmas i land vid en tömningsstation (eller en flytande\ntömningsstation).",
+      "images": []
+    },
+    {
+      "id": "p1_s4_q2",
+      "section": "Område 4 – Miljö",
+      "question_number": "2",
+      "question": "Vilka alternativ finns det till bottenmålning med giftig färg?",
+      "answer": "Använda giftfri färg, tvätta botten i båtbottentvättar som finns runt kusterna\noch för mindre båtar, förvara på trailer.",
+      "images": []
+    },
+    {
+      "id": "p1_s4_q3",
+      "section": "Område 4 – Miljö",
+      "question_number": "3",
+      "question": "Du vill gå iland på en ö, hur tar du reda på om det är ett fågel- eller\nsälskyddsområde?",
+      "answer": "Det framgår i sjökortet över området, samt i vissa fall av skyltar på land.",
+      "images": []
+    },
+    {
+      "id": "p1_s5_q1",
+      "section": "Område 5 – Väder och vind",
+      "question_number": "1",
+      "question": "I vilken riktning blåser sjöbrisen?",
+      "answer": "Den blåser från havet och in mot land. På västkusten blåser sjöbrisen från väst\noch på ostkusten från ost.",
+      "images": []
+    },
+    {
+      "id": "p1_s5_q2",
+      "section": "Område 5 – Väder och vind",
+      "question_number": "2",
+      "question": "Det är dimma och du ska passera en ö, på vilken sida om ön väljer du att gå?",
+      "answer": "På läsidan (där det oftast är minst dimma).",
+      "images": []
+    },
+    {
+      "id": "p1_s5_q3",
+      "section": "Område 5 – Väder och vind",
+      "question_number": "3",
+      "question": "Var hittar du aktuella väderleksrapporter, ge exempel på tre källor.",
+      "answer": "Internet (SMHI och andra vädertjänster), Radio (Sjörapporten), VHF\n(väderutsändningar) och olika mobilappar med väderprognoser.",
+      "images": []
+    },
+    {
+      "id": "p1_s6_q1",
+      "section": "Område 6 – Lagar och regler",
+      "question_number": "1",
+      "question": "Hur många personer får max åka med på en båt utan\npassagerarfartygscertifikat?",
+      "answer": "Max 12 passagerare (ej inräknat besättningen).",
+      "images": []
+    },
+    {
+      "id": "p1_s6_q2",
+      "section": "Område 6 – Lagar och regler",
+      "question_number": "2",
+      "question": "Förklara begreppen båt, fartyg, skepp?",
+      "answer": "Båt = ett fartyg under 24 meter. Fartyg = alla flytetyg för transport med\nstyrförmåga. Skepp = Fartyg över 24 meter.",
+      "images": []
+    },
+    {
+      "id": "p1_s6_q3",
+      "section": "Område 6 – Lagar och regler",
+      "question_number": "3",
+      "question": "Det är en stilla dag och du ser ett sjömärke du vill förtöja i för en snabb fika,\nfår du det?",
+      "answer": "Nej.",
+      "images": []
+    },
+    {
+      "id": "p1_s6_q4",
+      "section": "Område 6 – Lagar och regler",
+      "question_number": "4",
+      "question": "Vem räknas som redare för en båt?",
+      "answer": "En redare kallas huvudmannen för båten, den som utrustar och underhåller\nden – ofta ägaren.",
+      "images": []
+    },
+    {
+      "id": "p1_s6_q5",
+      "section": "Område 6 – Lagar och regler",
+      "question_number": "5",
+      "question": "Vilka skyldigheter har du som befälhavare?",
+      "answer": "Sjövärdighet, sjöklarhet, gott sjömanskap, räddningsplikt, biståndsplikt,\nidentifiering, varningsplikt (varningsplikt gäller ej fritidsbåt).",
+      "images": []
+    }
+  ],
+  "prov2": [
+    {
+      "id": "p2_q1",
+      "section": "Praktisk ruttplanering",
+      "question_number": "1",
+      "question": "Du ska åka från Askfatshamnen på Dalarö till Kyrkviken på Utö (övningssjökort 6163).\n- Hur lång är sträckan i M? Mät med passaren.\n- I vilket väderstreck ligger ditt mål i förhållande till din startpunkt?",
+      "answer": "- Cirka 11-12 M (kan skilja något beroende på vägval).\n- Syd (lite Sydväst).",
+      "images": []
+    },
+    {
+      "id": "p2_q2",
+      "section": "Övningsprov 2",
+      "question_number": "2",
+      "question": "På din väg från Askfatshamnen har du efter drygt 1M två sjömärken i\nsjökortet markerade BYB och YBY. Vad betyder förkortningarna och dessa märken?",
+      "answer": "BYB står för Black Yellow Black och är ett “Ostmärke” som är placerat ost\nom hindret. YBY star för Yellow Black Yellow och är ett “Västmärke” som står placerat väst\nom hindret. Då de båda märkena markerar varsina grundområden har du därför fri passage\nmellan märkena.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q3",
+      "section": "Övningsprov 2",
+      "question_number": "3",
+      "question": "På väg över Mysingen så passerar du ön St Mysingeholm. Utöver fyren på ön,\nfinns två andra symboler markerade i sjökortet på ön, vilka typer av märken är dessa?",
+      "answer": "Det är två fasta sjömärken på ön utöver fyren.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q4",
+      "section": "Övningsprov 2",
+      "question_number": "4",
+      "question": "Varför har papperssjökortet och det elektroniska sjökortet ibland olika\nsymboler för samma markeringar?",
+      "answer": "Olika tillverkare av digitala sjökort väljer själva symboler för olika\nmarkeringar i sjökortet, därför kan de skilja sig ifrån papperskortet.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q5",
+      "section": "Övningsprov 2",
+      "question_number": "5",
+      "question": "Varför är det viktigt att du ser till att ha ”tillräckligt inzoomat” i ditt\nelektroniska sjökort på navigatorn?",
+      "answer": "I vissa sjökortsprogram så utelämnas data från sjökortet om du inte har\nnavigatorn inzoomad tillräckligt mycket. Det kan innebära att utmärkningar och grund inte\nvisas, vilket kan utgöra en stor fara.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q6",
+      "section": "Övningsprov 2",
+      "question_number": "6",
+      "question": "Du seglar (motorn avstängd) och får möte med ett större lastfartyg på\nMysingen, vem väjer?",
+      "answer": "Du väjer och håller undan då det räknas som trång farled och lastfartyget kan\nha svårt att manövrera.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q7",
+      "section": "Övningsprov 2",
+      "question_number": "7",
+      "question": "Du är nu framme i Kyrkviken på Utö, och väljer att svajankra i den västra\ndelen av Kyrkviken. Hur djupt visar sjökortet att det är?",
+      "answer": "5 meter.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q8",
+      "section": "Övningsprov 2",
+      "question_number": "8",
+      "question": "Hur lång ankarlina ska du släppa ut vid ankring på djupet i Kyrkviken där du\när (vi utgår från att det är lugnt väder)?",
+      "answer": "Cirka 25-30 meter (5-6 gånger djupet).",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q9",
+      "section": "Övningsprov 2",
+      "question_number": "9",
+      "question": "I vilket väderstreck ligger Utö gästhamn i förhållande till din position där du\nsvajankrar?",
+      "answer": "Nordost.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q10",
+      "section": "Övningsprov 2",
+      "question_number": "10",
+      "question": "Vilken vindriktning är du utsatt för när du ligger ankrad i Kyrkviken?",
+      "answer": "Nord/Nordost.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q11",
+      "section": "Övningsprov 2",
+      "question_number": "11",
+      "question": "Vad betyder märkena nedan?\nMärke 1\nMärke 2\nMärke 3",
+      "answer": "nedan:\nMärke 1\nLivsfarlig ledning.\nMärke 2\nLinfärja.\nMärke 3\nFörbud mot förtöjning.",
+      "images": [
+        "Ovningsprov_Forarintyg_-_2_p3_i2_30.png",
+        "Ovningsprov_Forarintyg_-_2_p3_i1_32.png",
+        "Ovningsprov_Forarintyg_-_2_p3_i0_34.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q12",
+      "section": "Övningsprov 2",
+      "question_number": "12",
+      "question": "Det börjar skymma när du ligger på svaj i Kyrkviken, vilken/vilka lanternor\nska du ha tända under natten när du ligger för ankare?",
+      "answer": "En vit runtomlysande ankarlanterna. (OBS! Tänk på att sätta den så lågt som\nmöjligt utan att den skyms av överbyggnaden på båten. Har du bara en vit lanterna i\nmasttoppen är det risk för att den missas av någon som kör in i viken och förväxlar din\nlanterna med något annat ljus på himlen.)",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q13",
+      "section": "Övningsprov 2",
+      "question_number": "13",
+      "question": "Du planerar din nästa dagsetapp från Kyrkviken ner till Nynäshamns\ngästhamn. Sträckan är cirka 12 M. Hur lång tid tar det att nå målet om du gör 6 knop?",
+      "answer": "2 timmar (Tiden = Distans/Farten).",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q14",
+      "section": "Övningsprov 2",
+      "question_number": "14",
+      "question": "Du lättar ankare och påbörjar din färd innan gryning.\n- Vilka lanternor ska du ha tända om du har en segelbåt som går för motor?\n- Efter en stund stänger du av motorn och börjar segla, vilka lanternor ska du då ha\ntända?\n- -",
+      "answer": "- Ett maskindrivet fartyg under 50 meter ska ha ett förligt toppljus, sidoljus och akterljus.\n- När du stängt av motorn och seglar så släcker du toppljuset och har sidoljus och akterljus\ntända.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q15",
+      "section": "Övningsprov 2",
+      "question_number": "15",
+      "question": "Vem väjer i situationerna nedan? (pilen i bilderna markerar vindriktningen)\n- Situation 1:\n- Situation 2:\n- - A.",
+      "answer": "- B väjer för A då B är ”Lovartsbåt” och A är ”Läbåt”.\n- A väjer för B då A har vinden in på babordssida.",
+      "images": [
+        "prov2_fr15_1.png",
+        "prov2_fr15_2.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q16",
+      "section": "Övningsprov 2",
+      "question_number": "16",
+      "question": "Du behöver göra ett nödanrop på VHF:en, vilken kanal använder du?",
+      "answer": "kanal 16",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q17",
+      "section": "Övningsprov 2",
+      "question_number": "17",
+      "question": "Vad betyder de olika väderstrecksmärkena (kardinalmärken) nedan och hur\nstår de i förhållande till hindret/grundet? Fyll i nedan.\nKardinalmärke\nTyp av märke\nHur står det i förhållande till\nhindret/grundet?",
+      "answer": "nedan:\nKardinalmärke\nTyp av märke\nHur står det i förhållande till\nhindret/grundet?\nSydmärke\nStår syd om hindret.\nVästmärke\nStår väst om hindret.\nNordmärke\nStår norr om hindret.\nOstmärke\nStor ost om hindret.",
+      "images": [
+        "Ovningsprov_Forarintyg_-_2_p5_i3_73.png",
+        "Ovningsprov_Forarintyg_-_2_p5_i1_75.png",
+        "Ovningsprov_Forarintyg_-_2_p5_i0_77.png",
+        "Ovningsprov_Forarintyg_-_2_p5_i2_79.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q18",
+      "section": "Övningsprov 2",
+      "question_number": "18",
+      "question": "Var går gränsen för sjöfylleri?",
+      "answer": "Gränsen för sjöfylleri går vid 0,10 milligram alkohol per liter utandningsluft,\nvilket motsvarar ungefär 0,2 promille i blodet.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q19",
+      "section": "Övningsprov 2",
+      "question_number": "19",
+      "question": "Vad kallas de olika tamparna? (Namnge dem förifrån och gå akterut.)\nTamp 1:\nTamp 2:\nTamp 3:\nTamp 4:",
+      "answer": "Se bild nedan.",
+      "images": [
+        "Ovningsprov_Forarintyg_-_2_p6_i0_105.png"
+      ],
+      "answer_images": [
+        "Facit_-_Ovningsprov_Forarintyg_-_2_p3_i0_59.png"
+      ]
+    },
+    {
+      "id": "p2_q20",
+      "section": "Övningsprov 2",
+      "question_number": "20",
+      "question": "Du ligger med din babordsida längsmed en kaj, vinden ligger på och trycker\nbåten in mot kajen. Hur gör du när du ska kasta loss, på bästa sätt?",
+      "answer": "Använd ett förspring och kör sakta framåt så vrids aktern utåt, när aktern\nvridit sig tillräckligt långt ut slår du back och backar ut från kajen samtidigt som du släpper\nförspringet.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q21",
+      "section": "Övningsprov 2",
+      "question_number": "21",
+      "question": "Du ser två enstavlor enligt bilden nedan, hur ska du gira för att få dem i linje?",
+      "answer": "Du girar styrbord och får då tavlorna i ens och kommer in i enslinjen.",
+      "images": [
+        "Ovningsprov_Forarintyg_-_2_p6_i1_107.png"
+      ],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q22",
+      "section": "Övningsprov 2",
+      "question_number": "22",
+      "question": "Ett fartyg avger 2 korta ljudsignaler, vad betyder det?",
+      "answer": "Att fartyget ändrar sin kurs åt babord.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q23",
+      "section": "Övningsprov 2",
+      "question_number": "23",
+      "question": "Ett fartyg avger 3 korta ljudsignaler, vad betyder det?",
+      "answer": "Att fartygets maskin arbetar back.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q24",
+      "section": "Övningsprov 2",
+      "question_number": "24",
+      "question": "Du ska ta ut din position med hjälp av en krysspejling, hur gör du?",
+      "answer": "Du börjar med att ta ut två bäringar direkt efter varandra, så nära 90° ifrån\nvarandra som möjligt, och på så långt avstånd från båten som möjligt. Använd föremål i\nsjökortet, som du vet positionen på, för att ta bäringar mot, exempelvis fyrar, sjömärken m fl.\nFör att ta ut bäringen styr du båten mot det första föremålet och antecknar din kurs från\nkompassen mot föremålet. Därefter styr du direkt mot det andra föremålet och antecknar den\nkursen från kompassen. På så sätt har du fått två bäringar. Dra sedan ut dessa kurser i\nsjökortet från respektive föremål - där linjerna möts är din position. Du kan även använda en\nhandhållen pejlkompass.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q25",
+      "section": "Övningsprov 2",
+      "question_number": "25",
+      "question": "Du ser en person på en annan båt som höjer och sänker armarna över\nhuvudet upprepade gånger, vad betyder det?",
+      "answer": "Det är en SOS signal och personen är i nöd och behöver hjälp.",
+      "images": [],
+      "answer_images": []
+    },
+    {
+      "id": "p2_q26",
+      "section": "Övningsprov 2",
+      "question_number": "26",
+      "question": "Varför ska du inte elda på klipporna?",
+      "answer": "De kan spricka.",
+      "images": [],
+      "answer_images": []
+    }
+  ],
+  "prov3": [
+    {
+      "id": "p3_q1",
+      "section": "Övningsprov 3",
+      "question_number": "1",
+      "question": "Vilken typ av brandsläckare ska (minst) finnas ombord på en 7 meters båt?",
+      "answer": "En ABC-släckare.",
+      "images": []
+    },
+    {
+      "id": "p3_q2",
+      "section": "Övningsprov 3",
+      "question_number": "2",
+      "question": "Hur ser ett västmärke (kardinalmärke) ut? Beskriv färgkombinationen och\ntopptecknet.",
+      "answer": "Gul – Svart – Gul. Två trianglar som pekar mot varandra.",
+      "images": []
+    },
+    {
+      "id": "p3_q3",
+      "section": "Övningsprov 3",
+      "question_number": "3",
+      "question": "Du har en fritidsbåt som är 8,5 meter lång, krävs det att den har utrustning för\natt kunna avge ljudsignal?",
+      "answer": "Ja, alla fartyg behöver kunna avge någon form av ljudsignal.",
+      "images": []
+    },
+    {
+      "id": "p3_q4",
+      "section": "Övningsprov 3",
+      "question_number": "4",
+      "question": "Vad skiljer ett sjökort i skala 1:10 000, från ett sjökort i skala 1:25 000?",
+      "answer": "Sjökortet i skala 1:10 000 är ett mer detaljerat kort än det i skala 1:25 000.",
+      "images": []
+    },
+    {
+      "id": "p3_q5",
+      "section": "Övningsprov 3",
+      "question_number": "5",
+      "question": "Vad säger IS (Internationella Sjövägsregler) om hur du ska hålla utkik\nombord?",
+      "answer": "Du ska hålla ständig utkik med alla sinnen, horisonten runt.",
+      "images": []
+    },
+    {
+      "id": "p3_q6",
+      "section": "Övningsprov 3",
+      "question_number": "6",
+      "question": "Inför avfärd ska du sjöstuva båten, vad betyder det?",
+      "answer": "Det innebär att du säkerställer så att alla lösa föremål är surrade och packade\npå ett sätt som gör att de inte far omkring vid sjögång, girar eller svall.",
+      "images": []
+    },
+    {
+      "id": "p3_q7",
+      "section": "Övningsprov 3",
+      "question_number": "7",
+      "question": "Hur långt ut från baslinjen sträcker sig svenskt sjöterritorium?",
+      "answer": "12 M ut från baslinjen.",
+      "images": []
+    },
+    {
+      "id": "p3_q8",
+      "section": "Övningsprov 3",
+      "question_number": "8",
+      "question": "Beskriv vad Sjötrafikförordningen är för något.",
+      "answer": "Det är anpassningar och undantag som gjorts utifrån IS som gäller på svenskt\nsjöterritorium.",
+      "images": []
+    },
+    {
+      "id": "p3_q9",
+      "section": "Övningsprov 3",
+      "question_number": "9",
+      "question": "Vad kännetecknar en kallfront dv s vilken typ av väder brukar den föra med\nsig?",
+      "answer": "Hastiga vindökningar, vindvridningar och nederbörd.",
+      "images": []
+    },
+    {
+      "id": "p3_q10",
+      "section": "Övningsprov 3",
+      "question_number": "10",
+      "question": "Du vill gå igenom Dalarö kanal, vilken maxhöjd och vilket maxdjup kan din\nbåt ha för att komma igenom? Se sjökort 6163.",
+      "answer": "Max 1,2 m djup och 2,5 m hög (obs, i praktiken, notera det aktuella\nvattenståndet för säkerhets skull).",
+      "images": []
+    },
+    {
+      "id": "p3_q11",
+      "section": "Övningsprov 3",
+      "question_number": "11",
+      "question": "Din kompass ombord visar inte samma kurs som din navigator, vad kan det\nbero på?",
+      "answer": "Flera olika faktorer kan påverka, såsom missvisning, deviation eller\nmagnetiska föremål som ex vis en mobiltelefon som ligger för nära kompassen.",
+      "images": []
+    },
+    {
+      "id": "p3_q12",
+      "section": "Övningsprov 3",
+      "question_number": "12",
+      "question": "Ni är 4 personer ombord, behöver alla vara nyktra vid färden?",
+      "answer": "Alla i besättningen och som behövs för båtens framförande ska vara nyktra.\nTänk på att du och sjöpolisen kan ha olika uppfattning om antal personer som krävs som\nbesättning för att framföra båten säkert.",
+      "images": []
+    },
+    {
+      "id": "p3_q13",
+      "section": "Övningsprov 3",
+      "question_number": "13",
+      "question": "Vilket är straffet för sjöfylleri (sjöfylleri = mer än 0,2 promille)?",
+      "answer": "Böter eller fängelse i högst 6 månader.",
+      "images": []
+    },
+    {
+      "id": "p3_q14",
+      "section": "Övningsprov 3",
+      "question_number": "14",
+      "question": "Vilket är straffet för grovt sjöfylleri (grovt sjöfylleri = mer än 1 promille)?",
+      "answer": "Fängelse upp till två år.",
+      "images": []
+    },
+    {
+      "id": "p3_q15",
+      "section": "Övningsprov 3",
+      "question_number": "15",
+      "question": "Vad innebär biståndsplikten?",
+      "answer": "Att du har skyldighet att ge all möjlig hjälp för att rädda andra båtars\nnödställda (så länge din egen besättning eller fartygs säkerhet inte riskeras).",
+      "images": []
+    },
+    {
+      "id": "p3_q16",
+      "section": "Övningsprov 3",
+      "question_number": "16",
+      "question": "Du ska köpa en säker flytväst till ett barn, vilken typ av flytväst väljer du?",
+      "answer": "Räddningsväst (med grenband, reflexer och krok för livsele/tamp).",
+      "images": []
+    },
+    {
+      "id": "p3_q17",
+      "section": "Övningsprov 3",
+      "question_number": "17",
+      "question": "Redogör för minst 3 sätt att larma/ ange nödsignaler på vid sjönöd.",
+      "answer": "1. Ringa 112.\n2. Ropa på hjälp på VHF kanal 16.\n3. Skjuta upp nödraketer (handbloss eller röksignaler).\n4. Höja och sänka armarna upp och ner över huvudet.\n5. Ange SOS som morsesignal med hjälp av en blinkande lampa (tre korta – tre långa – tre\nkorta).\n6. Ange SOS som morsesignal med mistlur.",
+      "images": []
+    },
+    {
+      "id": "p3_q18",
+      "section": "Övningsprov 3",
+      "question_number": "18",
+      "question": "Du (båt A) möter båt B, som har väjningsplikt. Båt B gör inga tecken på att\nväja, vad gör du?",
+      "answer": "Jag fortsätter att hålla min kurs och fart tills det är risk för kollision. Då väjer\njag och gör allt jag kan för att undvika en kollision.",
+      "images": []
+    },
+    {
+      "id": "p3_q19",
+      "section": "Övningsprov 3",
+      "question_number": "19",
+      "question": "Vad finns på positionen 59°04.15’N 18°20.21E? (övningssjökort 6163)",
+      "answer": "Oxpelles grund.",
+      "images": []
+    },
+    {
+      "id": "p3_q20",
+      "section": "Övningsprov 3",
+      "question_number": "20",
+      "question": "Utgå ifrån markeringen J i övningssjökort 616.\n- Hur långt är det från J till Huvudskärs fyr?\n- Vilken kurs ska du hålla från J för att gå till Huvudskärs fyr?\n- I vilket väderstreck ligger Huvudskärs fyr när du befinner dig vid J?\n- - -",
+      "answer": "- Cirka 9 M\n- 61°\n- Nordost (NO)",
+      "images": []
+    },
+    {
+      "id": "p3_q21",
+      "section": "Övningsprov 3",
+      "question_number": "21",
+      "question": "Vad är styrbord och babord?",
+      "answer": "Styrbord är den högra sidan på ett fartyg (sett akterifrån) och babord är den\nvänstra sidan (sett akterifrån).",
+      "images": []
+    },
+    {
+      "id": "p3_q22",
+      "section": "Övningsprov 3",
+      "question_number": "22",
+      "question": "På ditt sjökort står det ”New chart”, vad betyder det?",
+      "answer": "Med ’New chart’ menas ett nytt sjökort som avviker från befintliga sjökort\nbeträffande utbredning, skala eller utformning. Ett nytt sjökort har alltid ett nytt\nsjökortsnummer som inte använts på senare år.",
+      "images": []
+    },
+    {
+      "id": "p3_q23",
+      "section": "Övningsprov 3",
+      "question_number": "23",
+      "question": "När på året är det vanligast att det blir sjöbris?",
+      "answer": "Sjöbris uppkommer när vattnet är kallt och land är varmt, alltså är sjöbrisen\nvanligast på våren och försommaren.",
+      "images": []
+    },
+    {
+      "id": "p3_q24",
+      "section": "Övningsprov 3",
+      "question_number": "24",
+      "question": "När används ett specialmärke och hur ser det ut?",
+      "answer": "Specialmärken är gula och har ett gult kryss som topptecken. Det används för\natt märka ut nya hinder som exempelvis ett nytt vrak, en sandbank, militärt område,\nmätinstrument mm.",
+      "images": []
+    },
+    {
+      "id": "p3_q25",
+      "section": "Övningsprov 3",
+      "question_number": "25",
+      "question": "Du ser två flytande märken på ca 50 meters avstånd. Det ena märket har två\nta flaggor på sig och det andra märket har en svart flagga på sig. Vad betyder dessa\nmärken?",
+      "answer": "Fiskeredskap som är överseglingsbara.",
+      "images": []
+    },
+    {
+      "id": "p3_q26",
+      "section": "Övningsprov 3",
+      "question_number": "26",
+      "question": "Du ser ett märke/fiskeredskap som har ett kryss eller ett klot som toppsymbol\npå pinnen, vad betyder det?",
+      "answer": "Att redskapet inte är överseglingsbart.",
+      "images": []
+    },
+    {
+      "id": "p3_q27",
+      "section": "Övningsprov 3",
+      "question_number": "27",
+      "question": "Du är på Mysingen och pejlar fyren Älvsnabben i bäring 264° och fyren på St\nMysingeholm i bäring 33°. Vad blir din position?",
+      "answer": "58°58,80’N 18°13,70’E.",
+      "images": []
+    },
+    {
+      "id": "p3_q28",
+      "section": "Övningsprov 3",
+      "question_number": "28",
+      "question": "Från din position i frågan ovan ska du ta kurs på fyren Östra Röko, vad blir\nkursen dit?",
+      "answer": "226°.",
+      "images": []
+    }
+  ],
+  "vajning": [
+    {
+      "id": "vajning_q1",
+      "section": "Väjningsregler",
+      "question_number": "1",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Båt B ligger närmast vinden (lovartsbåt) väjer därför för A som är läbåt i exemplet.",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p1_i1_14.png"
+      ]
+    },
+    {
+      "id": "vajning_q2",
+      "section": "Väjningsregler",
+      "question_number": "2",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Båt B seglar för babords halsar (vinden in från babord) och väjer därför för båt A som seglar för styrbords halsar (vinden in från styrbord).",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p1_i0_16.png"
+      ]
+    },
+    {
+      "id": "vajning_q3",
+      "section": "Väjningsregler",
+      "question_number": "3",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Båt B väjer då den seglar för babords halsar.",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p1_i2_18.png"
+      ]
+    },
+    {
+      "id": "vajning_q4",
+      "section": "Väjningsregler",
+      "question_number": "4",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Båt B väjer då den är lovartsbåt (ligger närmast vinden).",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p1_i3_20.png"
+      ]
+    },
+    {
+      "id": "vajning_q5",
+      "section": "Väjningsregler",
+      "question_number": "5",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Båt B väjer då den är upphinnande.",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p2_i2_32.png"
+      ]
+    },
+    {
+      "id": "vajning_q6",
+      "section": "Väjningsregler",
+      "question_number": "6",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Båt B väjer, då högerregeln gäller.",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p2_i0_34.png"
+      ]
+    },
+    {
+      "id": "vajning_q7",
+      "section": "Väjningsregler",
+      "question_number": "7",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Båt A väjer, då högerregeln gäller.",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p2_i1_36.png"
+      ]
+    },
+    {
+      "id": "vajning_q8",
+      "section": "Väjningsregler",
+      "question_number": "8",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Segelbåten väjer för stort fartyg i skärgården (trång farled).",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p2_i3_38.png"
+      ]
+    },
+    {
+      "id": "vajning_q9",
+      "section": "Väjningsregler",
+      "question_number": "9",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Segelbåten väjer för stort fartyg i Skärgården (trång farled).",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p3_i1_44.png"
+      ]
+    },
+    {
+      "id": "vajning_q10",
+      "section": "Väjningsregler",
+      "question_number": "10",
+      "question": "Vem väjer i situationen nedan och varför? (Båda båtarna rör sig i pilarnas riktning, vindens riktning indikeras i vissa bilder av en pil med vindstyrka/vindriktning)",
+      "answer": "Stäv mot stäv, båda girar styrbord, högerregeln.",
+      "images": [
+        "Ovningsprov_vajningsregler_(1)_p3_i0_46.png"
+      ]
+    }
+  ],
+  "beteckningar": [
+    {
+      "id": "bet_terrang_kartlagd",
+      "section": "Sjökortsbeteckningar – Terräng",
+      "question_number": "1",
+      "question": "Vad betyder denna sjökortsbeteckning för terräng?",
+      "answer": "Kartlagd strandlinje",
+      "images": [
+        "bet_terrang_kartlagd.png"
+      ]
+    },
+    {
+      "id": "bet_terrang_ofullstandig",
+      "section": "Sjökortsbeteckningar – Terräng",
+      "question_number": "2",
+      "question": "Vad betyder denna sjökortsbeteckning för terräng?",
+      "answer": "Ofullständigt kartlagd strandlinje",
+      "images": [
+        "bet_terrang_ofullstandig.png"
+      ]
+    },
+    {
+      "id": "bet_terrang_vass",
+      "section": "Sjökortsbeteckningar – Terräng",
+      "question_number": "3",
+      "question": "Vad betyder denna sjökortsbeteckning för terräng?",
+      "answer": "Vass eller säv",
+      "images": [
+        "bet_terrang_vass.png"
+      ]
+    },
+    {
+      "id": "bet_byggnad_hus",
+      "section": "Sjökortsbeteckningar – Byggnader m m",
+      "question_number": "4",
+      "question": "Vad betyder denna sjökortssymbol?",
+      "answer": "Hus, byggnader",
+      "images": [
+        "bet_byggnad_hus.png"
+      ]
+    },
+    {
+      "id": "bet_byggnad_slott",
+      "section": "Sjökortsbeteckningar – Byggnader m m",
+      "question_number": "5",
+      "question": "Vad betyder denna sjökortssymbol?",
+      "answer": "Slott, herrgård",
+      "images": [
+        "bet_byggnad_slott.png"
+      ]
+    },
+    {
+      "id": "bet_byggnad_gangstig",
+      "section": "Sjökortsbeteckningar – Byggnader m m",
+      "question_number": "6",
+      "question": "Vad betyder denna linje i sjökortet?",
+      "answer": "Gångstig",
+      "images": [
+        "bet_byggnad_gangstig.png"
+      ]
+    },
+    {
+      "id": "bet_byggnad_fast_bro",
+      "section": "Sjökortsbeteckningar – Byggnader m m",
+      "question_number": "7",
+      "question": "Vad betyder denna bro-symbol i sjökortet?",
+      "answer": "Fast bro med segelfri höjd i meter (t.ex. 20 meter på bilden)",
+      "images": [
+        "bet_byggnad_fast_bro.png"
+      ]
+    },
+    {
+      "id": "bet_byggnad_oppningsbar_bro",
+      "section": "Sjökortsbeteckningar – Byggnader m m",
+      "question_number": "8",
+      "question": "Vad betyder denna bro-symbol i sjökortet?",
+      "answer": "Öppningsbar bro med fri bredd i meter (t.ex. 25 meter på bilden)",
+      "images": [
+        "bet_byggnad_oppningsbar_bro.png"
+      ]
+    },
+    {
+      "id": "bet_byggnad_kraftledning",
+      "section": "Sjökortsbeteckningar – Byggnader m m",
+      "question_number": "9",
+      "question": "Vad betyder denna symbol i sjökortet?",
+      "answer": "Kraftledning med mast och segelfri höjd",
+      "images": [
+        "bet_byggnad_kraftledning.png"
+      ]
+    },
+    {
+      "id": "bet_byggnad_teleledning",
+      "section": "Sjökortsbeteckningar – Byggnader m m",
+      "question_number": "10",
+      "question": "Vad betyder denna linje i sjökortet?",
+      "answer": "Teleledning",
+      "images": [
+        "bet_byggnad_teleledning.png"
+      ]
+    },
+    {
+      "id": "bet_landmark_kyrka",
+      "section": "Sjökortsbeteckningar – Landmärken",
+      "question_number": "11",
+      "question": "Vad betyder denna landmärkessymbol?",
+      "answer": "Kyrka",
+      "images": [
+        "bet_landmark_kyrka.png"
+      ]
+    },
+    {
+      "id": "bet_landmark_torn",
+      "section": "Sjökortsbeteckningar – Landmärken",
+      "question_number": "12",
+      "question": "Vad betyder denna landmärkessymbol?",
+      "answer": "Torn och vattentorn",
+      "images": [
+        "bet_landmark_torn.png"
+      ]
+    },
+    {
+      "id": "bet_landmark_vindkraft",
+      "section": "Sjökortsbeteckningar – Landmärken",
+      "question_number": "13",
+      "question": "Vad betyder dessa landmärkessymboler?",
+      "answer": "Vindkraftverk / Vindkraftpark",
+      "images": [
+        "bet_landmark_vindkraft.png"
+      ]
+    },
+    {
+      "id": "bet_landmark_skorsten",
+      "section": "Sjökortsbeteckningar – Landmärken",
+      "question_number": "14",
+      "question": "Vad betyder denna landmärkessymbol?",
+      "answer": "Skorsten",
+      "images": [
+        "bet_landmark_skorsten.png"
+      ]
+    },
+    {
+      "id": "bet_landmark_radiomast",
+      "section": "Sjökortsbeteckningar – Landmärken",
+      "question_number": "15",
+      "question": "Vad betyder denna landmärkessymbol?",
+      "answer": "Radiomast / Televisionsmast",
+      "images": [
+        "bet_landmark_radiomast.png"
+      ]
+    },
+    {
+      "id": "bet_hamn_pir_fortojning",
+      "section": "Sjökortsbeteckningar – Hamnar",
+      "question_number": "16",
+      "question": "Vad betyder denna hamnsymbol?",
+      "answer": "Pir (med förtöjningsmöjligheter)",
+      "images": [
+        "bet_hamn_pir_fortojning.png"
+      ]
+    },
+    {
+      "id": "bet_hamn_kaj",
+      "section": "Sjökortsbeteckningar – Hamnar",
+      "question_number": "17",
+      "question": "Vad betyder denna hamnsymbol?",
+      "answer": "Kaj",
+      "images": [
+        "bet_hamn_kaj.png"
+      ]
+    },
+    {
+      "id": "bet_hamn_pir_brygga",
+      "section": "Sjökortsbeteckningar – Hamnar",
+      "question_number": "18",
+      "question": "Vad betyder denna hamnsymbol?",
+      "answer": "Pir, brygga",
+      "images": [
+        "bet_hamn_pir_brygga.png"
+      ]
+    },
+    {
+      "id": "bet_hamn_dykdalb",
+      "section": "Sjökortsbeteckningar – Hamnar",
+      "question_number": "19",
+      "question": "Vad betyder dessa symboler i hamnområdet?",
+      "answer": "Dykdalb, stenkista",
+      "images": [
+        "bet_hamn_dykdalb.png"
+      ]
+    },
+    {
+      "id": "bet_hamn_slip",
+      "section": "Sjökortsbeteckningar – Hamnar",
+      "question_number": "20",
+      "question": "Vad betyder denna symbol i hamnområdet?",
+      "answer": "Slip, slipställe, ramp",
+      "images": [
+        "bet_hamn_slip.png"
+      ]
+    },
+    {
+      "id": "bet_hamn_sluss",
+      "section": "Sjökortsbeteckningar – Hamnar",
+      "question_number": "21",
+      "question": "Vad betyder denna symbol?",
+      "answer": "Sluss",
+      "images": [
+        "bet_hamn_sluss.png"
+      ]
+    },
+    {
+      "id": "bet_hamn_kran",
+      "section": "Sjökortsbeteckningar – Hamnar",
+      "question_number": "22",
+      "question": "Vad betyder denna symbol?",
+      "answer": "Kran med angiven lyftkapacitet (t.ex. max 3 ton på bilden)",
+      "images": [
+        "bet_hamn_kran.png"
+      ]
+    },
+    {
+      "id": "bet_hamn_kontor",
+      "section": "Sjökortsbeteckningar – Hamnar",
+      "question_number": "23",
+      "question": "Vad betyder denna symbol?",
+      "answer": "Hamnkontor",
+      "images": [
+        "bet_hamn_kontor.png"
+      ]
+    },
+    {
+      "id": "bet_djup_angivelse_plats",
+      "section": "Sjökortsbeteckningar – Djup",
+      "question_number": "24",
+      "question": "Vad betyder siffrorna (t.ex. 12 eller 9.7) i sjökortet?",
+      "answer": "Djupangivelse som anger djupet på platsen (i meter)",
+      "images": [
+        "bet_djup_angivelse_plats.png"
+      ]
+    },
+    {
+      "id": "bet_djup_angivelse_ej_pos",
+      "section": "Sjökortsbeteckningar – Djup",
+      "question_number": "25",
+      "question": "Vad betyder siffrorna inom parentes, t.ex. (12) eller (9), i sjökortet?",
+      "answer": "Djupangivelse ej i position (djupet ligger strax intill men har flyttats i ritningen för läsbarhet)",
+      "images": [
+        "bet_djup_angivelse_ej_pos.png"
+      ]
+    },
+    {
+      "id": "bet_djup_minsta_trang",
+      "section": "Sjökortsbeteckningar – Djup",
+      "question_number": "26",
+      "question": "Vad betyder denna djupsymbol?",
+      "answer": "Minsta djup i trång passage",
+      "images": [
+        "bet_djup_minsta_trang.png"
+      ]
+    },
+    {
+      "id": "bet_djup_muddrat",
+      "section": "Sjökortsbeteckningar – Djup",
+      "question_number": "27",
+      "question": "Vad betyder denna symbol och tillhörande siffra (t.ex. 7.2)?",
+      "answer": "Muddrat område med djupangivelse",
+      "images": [
+        "bet_djup_muddrat.png"
+      ]
+    },
+    {
+      "id": "bet_djup_ramat_svept",
+      "section": "Sjökortsbeteckningar – Djup",
+      "question_number": "28",
+      "question": "Vad betyder denna gröna linje med en djupsiffra under?",
+      "answer": "Ramat eller svept område till angivet djup",
+      "images": [
+        "bet_djup_ramat_svept.png"
+      ]
+    },
+    {
+      "id": "bet_djup_kurvor",
+      "section": "Sjökortsbeteckningar – Djup",
+      "question_number": "29",
+      "question": "Vad betyder de blå konturlinjerna i sjökortet?",
+      "answer": "Djupkurvor i hamnområde och skärgårdsort",
+      "images": [
+        "bet_djup_kurvor.png"
+      ]
+    },
+    {
+      "id": "bet_djup_icke_sjomatt",
+      "section": "Sjökortsbeteckningar – Djup",
+      "question_number": "30",
+      "question": "Vad betyder det tomma vita eller ljusblå området utan djupangivelser?",
+      "answer": "Icke sjömätt område",
+      "images": [
+        "bet_djup_icke_sjomatt.png"
+      ]
+    },
+    {
+      "id": "bet_grund_synlig_sten",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "31",
+      "question": "Vad betyder denna symbol?",
+      "answer": "Alltid synlig sten eller skär",
+      "images": [
+        "bet_grund_synlig_sten.png"
+      ]
+    },
+    {
+      "id": "bet_grund_branning",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "32",
+      "question": "Vad betyder denna symbol (asterisker/kryss omgivna av prickar)?",
+      "answer": "Bränning/ar grund i eller nära medelvattenytan",
+      "images": [
+        "bet_grund_branning.png"
+      ]
+    },
+    {
+      "id": "bet_grund_undervattenssten",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "33",
+      "question": "Vad betyder plustecknet (+) omgivet av fyra prickar?",
+      "answer": "Undervattenssten, farlig för ytnavigering (i svenska sjökort grundare än 2 meter)",
+      "images": [
+        "bet_grund_undervattenssten.png"
+      ]
+    },
+    {
+      "id": "bet_grund_vrak_synligt",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "34",
+      "question": "Vad betyder denna vrak-symbol?",
+      "answer": "Vrak synligt över vattenytan",
+      "images": [
+        "bet_grund_vrak_synligt.png"
+      ]
+    },
+    {
+      "id": "bet_grund_vrak_djup_okant",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "35",
+      "question": "Vad betyder symbolerna 'Wk' respektive siffran med 'Wk' brevid?",
+      "answer": "Vrak, över vilket djupet är okänt (vänster) respektive känt (höger)",
+      "images": [
+        "bet_grund_vrak_djup_okant.png"
+      ]
+    },
+    {
+      "id": "bet_grund_vrak_ej_farligt",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "36",
+      "question": "Vad betyder denna vrak-symbol?",
+      "answer": "Vrak ej farligt för ytnavigering",
+      "images": [
+        "bet_grund_vrak_ej_farligt.png"
+      ]
+    },
+    {
+      "id": "bet_grund_hinder",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "37",
+      "question": "Vad betyder beteckningen 'Obstn'?",
+      "answer": "Hinder, på okänt och känt djup (förkortning av engelskans Obstruction)",
+      "images": [
+        "bet_grund_hinder.png"
+      ]
+    },
+    {
+      "id": "bet_grund_palar",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "38",
+      "question": "Vad betyder de små strecken/staplarna i sjökortet?",
+      "answer": "Pålar eller stockar under vattenytan",
+      "images": [
+        "bet_grund_palar.png"
+      ]
+    },
+    {
+      "id": "bet_grund_fiskodling",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "39",
+      "question": "Vad betyder denna symbol (nätliknande ramar)?",
+      "answer": "Fiskodling",
+      "images": [
+        "bet_grund_fiskodling.png"
+      ]
+    },
+    {
+      "id": "bet_grund_oren_botten",
+      "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
+      "question_number": "40",
+      "question": "Vad betyder brädgården (#) i sjökortet?",
+      "answer": "Oren botten, rester av vrak eller andra hinder",
+      "images": [
+        "bet_grund_oren_botten.png"
+      ]
+    },
+    {
+      "id": "bet_offshore_kabel",
+      "section": "Sjökortsbeteckningar – Offshoreanläggningar",
+      "question_number": "41",
+      "question": "Vad betyder denna vågiga rosa/lila linje?",
+      "answer": "Undervattenskabel",
+      "images": [
+        "bet_offshore_kabel.png"
+      ]
+    },
+    {
+      "id": "bet_offshore_kabel_el",
+      "section": "Sjökortsbeteckningar – Offshoreanläggningar",
+      "question_number": "42",
+      "question": "Vad betyder denna vågiga rosa linje med blixt-symboler?",
+      "answer": "Undervattenskabel, el",
+      "images": [
+        "bet_offshore_kabel_el.png"
+      ]
+    },
+    {
+      "id": "bet_offshore_rorledning",
+      "section": "Sjökortsbeteckningar – Offshoreanläggningar",
+      "question_number": "43",
+      "question": "Vad betyder linjen med små cirklar på?",
+      "answer": "Rörledning (t.ex. vatten, avlopp eller gas)",
+      "images": [
+        "bet_offshore_rorledning.png"
+      ]
+    },
+    {
+      "id": "bet_farled_utan_utmarkning",
+      "section": "Sjökortsbeteckningar – Farleder",
+      "question_number": "44",
+      "question": "Vad betyder den streckade linjen i sjökortet?",
+      "answer": "Farled utan fast utmärkning",
+      "images": [
+        "bet_farled_utan_utmarkning.png"
+      ]
+    },
+    {
+      "id": "bet_farled_med_utmarkning",
+      "section": "Sjökortsbeteckningar – Farleder",
+      "question_number": "45",
+      "question": "Vad betyder den heldragna linjen i sjökortet?",
+      "answer": "Farled med fast utmärkning",
+      "images": [
+        "bet_farled_med_utmarkning.png"
+      ]
+    },
+    {
+      "id": "bet_farled_tss",
+      "section": "Sjökortsbeteckningar – Farleder",
+      "question_number": "46",
+      "question": "Vad kallas detta system som reglerar båttrafik i vältrafikerade områden?",
+      "answer": "Trafiksepareringssystem (TSS), trafiken skiljs åt av en separeringszon",
+      "images": [
+        "bet_farled_tss.png"
+      ]
+    },
+    {
+      "id": "bet_farled_farja",
+      "section": "Sjökortsbeteckningar – Farleder",
+      "question_number": "47",
+      "question": "Vad betyder denna streckade linje med texten 'Cable Ferry' eller 'Ferry'?",
+      "answer": "Färjeled (friåkande färja)",
+      "images": [
+        "bet_farled_farja.png"
+      ]
+    },
+    {
+      "id": "bet_farled_linfarja",
+      "section": "Sjökortsbeteckningar – Farleder",
+      "question_number": "48",
+      "question": "Vad betyder denna symbol med texten 'Cable Ferry'?",
+      "answer": "Linfärja (vajerfärja, mycket viktigt att se upp för då linan spänns upp bakom/framför färjan)",
+      "images": [
+        "bet_farled_linfarja.png"
+      ]
+    },
+    {
+      "id": "bet_grans_maritim",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "49",
+      "question": "Vad betyder denna streckade lila linje?",
+      "answer": "Maritim begränsningslinje",
+      "images": [
+        "bet_grans_maritim.png"
+      ]
+    },
+    {
+      "id": "bet_grans_forbud",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "50",
+      "question": "Vad betyder denna lila linje med streck inåt på sidorna?",
+      "answer": "Förbudsområde",
+      "images": [
+        "bet_grans_forbud.png"
+      ]
+    },
+    {
+      "id": "bet_grans_ankring",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "51",
+      "question": "Vad betyder ankarsymbolen i sjökortet?",
+      "answer": "Rekommenderad ankringsplats",
+      "images": [
+        "bet_grans_ankring.png"
+      ]
+    },
+    {
+      "id": "bet_grans_skydd",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "52",
+      "question": "Vad betyder linjen med fågel- och säl-symboler i lila?",
+      "answer": "Gränser för fågel- och sälskyddsområde (ofta med landstigningsförbud under häckningsperioden)",
+      "images": [
+        "bet_grans_skydd.png"
+      ]
+    },
+    {
+      "id": "bet_grans_varning_botten",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "53",
+      "question": "Vad betyder denna lila linje med vågiga element?",
+      "answer": "Varning för bottenaktiviteter (t.ex. ankringsförbud eller trålningsförbud pga. kablar)",
+      "images": [
+        "bet_grans_varning_botten.png"
+      ]
+    },
+    {
+      "id": "bet_grans_forbud_botten",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "54",
+      "question": "Vad betyder denna lila linje med kryss över vågorna?",
+      "answer": "Förbud mot bottenaktiviteter (t.ex. ankring förbjuden)",
+      "images": [
+        "bet_grans_forbud_botten.png"
+      ]
+    },
+    {
+      "id": "bet_grans_fartbegransning",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "55",
+      "question": "Vad betyder texten '5 kn' med en rosa pil under?",
+      "answer": "Fartbegränsning (i pilens riktning)",
+      "images": [
+        "bet_grans_fartbegransning.png"
+      ]
+    },
+    {
+      "id": "bet_grans_skjutomrade",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "56",
+      "question": "Vad betyder denna lila linje med tvärgående streck?",
+      "answer": "Skjutområde (militärt övningsområde där tillträdesförbud kan gälla vid skjutning)",
+      "images": [
+        "bet_grans_skjutomrade.png"
+      ]
+    },
+    {
+      "id": "bet_grans_ofullstandigt",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "57",
+      "question": "Vad betyder detta raster/mönster av rosa linjer?",
+      "answer": "Område där djup större än 6 m är ofullständigt redovisade (faromområde för större fartyg)",
+      "images": [
+        "bet_grans_ofullstandigt.png"
+      ]
+    },
+    {
+      "id": "bet_grans_baslinje",
+      "section": "Sjökortsbeteckningar – Områden & gränser",
+      "question_number": "58",
+      "question": "Vad betyder denna heldragna lila linje med cirklar på?",
+      "answer": "Baslinje med baslinjepunkt. Gräns för inre vatten.",
+      "images": [
+        "bet_grans_baslinje.png"
+      ]
+    },
+    {
+      "id": "bet_fritid_marina",
+      "section": "Sjökortsbeteckningar – Fritidsbåtsanordningar",
+      "question_number": "59",
+      "question": "Vad betyder denna hamnsymbol i sjökortet?",
+      "answer": "Småbåtshamn, Marina",
+      "images": [
+        "bet_fritid_marina.png"
+      ]
+    },
+    {
+      "id": "bet_fritid_gasthamn",
+      "section": "Sjökortsbeteckningar – Fritidsbåtsanordningar",
+      "question_number": "60",
+      "question": "Vad betyder denna gästhamnssymbol?",
+      "answer": "Gästplats, gästhamn",
+      "images": [
+        "bet_fritid_gasthamn.png"
+      ]
+    },
+    {
+      "id": "bet_fritid_sopmaja",
+      "section": "Sjökortsbeteckningar – Fritidsbåtsanordningar",
+      "question_number": "61",
+      "question": "Vad betyder denna symbol?",
+      "answer": "Sopmaja, soptunna och/eller toalett",
+      "images": [
+        "bet_fritid_sopmaja.png"
+      ]
+    },
+    {
+      "id": "bet_fyr_sektorbage",
+      "section": "Sjökortsbeteckningar – Fyrar",
+      "question_number": "62",
+      "question": "Vad betyder denna sjökortssymbol för fyrar?",
+      "answer": "Sektorbåge (visar fyrskenets olika färgsektorer)",
+      "images": [
+        "bet_fyr_sektorbage.png"
+      ]
+    },
+    {
+      "id": "bet_fyr_ensfyrar",
+      "section": "Sjökortsbeteckningar – Fyrar",
+      "question_number": "63",
+      "question": "Vad betyder denna sjökortssymbol för fyrar?",
+      "answer": "Ensfyrar, 2 objekt i linje (används för att hålla sig i en farled genom att hålla de två fyrarna i linje)",
+      "images": [
+        "bet_fyr_ensfyrar.png"
+      ]
+    },
+    {
+      "id": "bet_fyr_sektorfyr",
+      "section": "Sjökortsbeteckningar – Fyrar",
+      "question_number": "64",
+      "question": "Vad betyder denna sjökortssymbol för fyrar?",
+      "answer": "Sektorfyr. En sektor avsiktligt begränsad (fyrens ljus syns bara inom vissa vinklar)",
+      "images": [
+        "bet_fyr_sektorfyr.png"
+      ]
+    },
+    {
+      "id": "bet_fyr_tillfallig",
+      "section": "Sjökortsbeteckningar – Fyrar",
+      "question_number": "65",
+      "question": "Vad betyder denna sjökortssymbol för fyrar?",
+      "answer": "Fyr som tänds tillfälligt vid speciella behov (t.ex. för fiskare eller färjor). Betecknas ofta med (occas) eller FR (occas).",
+      "images": [
+        "bet_fyr_tillfallig.png"
+      ]
+    },
+    {
+      "id": "bet_fyr_slackt",
+      "section": "Sjökortsbeteckningar – Fyrar",
+      "question_number": "66",
+      "question": "Vad betyder denna sjökortssymbol för fyrar?",
+      "answer": "Släckt f.d. fyr. Betecknas med (exting).",
+      "images": [
+        "bet_fyr_slackt.png"
+      ]
+    },
+    {
+      "id": "bet_fyr_fasadbelysning",
+      "section": "Sjökortsbeteckningar – Fyrar",
+      "question_number": "67",
+      "question": "Vad betyder denna sjökortssymbol för fyrar?",
+      "answer": "Fasadbelysning (belyst fasad eller landmärke, t.ex. en fyr eller kyrka)",
+      "images": [
+        "bet_fyr_fasadbelysning.png"
+      ]
+    },
+    {
+      "id": "bet_sjo_styrbord",
+      "section": "Sjökortsbeteckningar – Sjömärken",
+      "question_number": "68",
+      "question": "Vad visar denna sjökortssymbol?",
+      "answer": "Styrbordsmärken, gröna (utmärker styrbordssidan av farleden i farledens huvudriktning)",
+      "images": [
+        "bet_sjo_styrbord.png"
+      ]
+    },
+    {
+      "id": "bet_sjo_babord",
+      "section": "Sjökortsbeteckningar – Sjömärken",
+      "question_number": "69",
+      "question": "Vad visar denna sjökortssymbol?",
+      "answer": "Babordsmärken, röda (utmärker babordssidan av farleden i farledens huvudriktning)",
+      "images": [
+        "bet_sjo_babord.png"
+      ]
+    },
+    {
+      "id": "bet_sjo_punkt",
+      "section": "Sjökortsbeteckningar – Sjömärken",
+      "question_number": "70",
+      "question": "Vad visar denna sjökortssymbol?",
+      "answer": "Punktmärken, svart/rött i horisontella band med två svarta klot som topptecken. Utmärker friliggande hinder av begränsad utsträckning som kan passeras på alla sidor.",
+      "images": [
+        "bet_sjo_punkt.png"
+      ]
+    },
+    {
+      "id": "bet_sjo_mittled",
+      "section": "Sjökortsbeteckningar – Sjömärken",
+      "question_number": "71",
+      "question": "Vad visar denna sjökortssymbol?",
+      "answer": "Mittledsmärken, rött/vitt i vertikala band med ett rött klot som topptecken. Utmärker fritt vatten runt om märket (t.ex. farledens mitt eller angöring).",
+      "images": [
+        "bet_sjo_mittled.png"
+      ]
+    },
+    {
+      "id": "bet_sjo_special",
+      "section": "Sjökortsbeteckningar – Sjömärken",
+      "question_number": "72",
+      "question": "Vad visar denna sjökortssymbol?",
+      "answer": "Specialmärken, gula (utmärker områden eller objekt för speciella ändamål, t.ex. kablar, rörledningar, gränser för badplatser eller fartbegränsningar). Gult märke med ett gult liggande kryss (X) som topptecken.",
+      "images": [
+        "bet_sjo_special.png"
+      ]
+    },
+    {
+      "id": "bet_sjo_fast",
+      "section": "Sjökortsbeteckningar – Sjömärken",
+      "question_number": "73",
+      "question": "Vad visar denna sjökortssymbol?",
+      "answer": "Fasta sjömärken (t.ex. kummel, båk, stång, tavla, sjömärke samt målad fläck). Står fast förankrade på land eller grund.",
+      "images": [
+        "bet_sjo_fast.png"
+      ]
+    },
+    {
+      "id": "bet_sjo_ensmarken",
+      "section": "Sjökortsbeteckningar – Sjömärken",
+      "question_number": "74",
+      "question": "Vad visar denna sjökortssymbol?",
+      "answer": "Ensmärken (2 Bns ╪ 270.5° = 2 fasta sjömärken i linje som visar en ensledning med bäring 270.5°)",
+      "images": [
+        "bet_sjo_ensmarken.png"
+      ]
+    },
+    {
+      "id": "bet_sjo_pilen",
+      "section": "Sjökortsbeteckningar – Sjömärken",
+      "question_number": "75",
+      "question": "Vad visar denna sjökortssymbol?",
+      "answer": "Huvudriktningspil (den rosa pilen med en röd och en grön cirkel bredvid visar utmärkningens huvudriktning)",
+      "images": [
+        "bet_sjo_pilen.png"
+      ]
+    },
+    {
+      "id": "bet_kard_nord",
+      "section": "Sjökortsbeteckningar – Kardinalmärken",
+      "question_number": "76",
+      "question": "Vilken typ av kardinalmärke är detta? Hur ska du passera det, och hur ser dess färger och topptecken ut?",
+      "answer": "Nordmärke. Du ska passera norr om märket (hindret ligger söder om märket). Topptecknen är två svarta koner som pekar uppåt (▲▲). Färgen är svart över gult.",
+      "images": [
+        "bet_kard_nord.png"
+      ]
+    },
+    {
+      "id": "bet_kard_syd",
+      "section": "Sjökortsbeteckningar – Kardinalmärken",
+      "question_number": "77",
+      "question": "Vilken typ av kardinalmärke är detta? Hur ska du passera det, och hur ser dess färger och topptecken ut?",
+      "answer": "Sydmärke. Du ska passera söder om märket (hindret ligger norr om märket). Topptecknen är två svarta koner som pekar nedåt (▼▼). Färgen är gult över svart.",
+      "images": [
+        "bet_kard_syd.png"
+      ]
+    },
+    {
+      "id": "bet_kard_ost",
+      "section": "Sjökortsbeteckningar – Kardinalmärken",
+      "question_number": "78",
+      "question": "Vilken typ av kardinalmärke är detta? Hur ska du passera det, och hur ser dess färger och topptecken ut?",
+      "answer": "Ostmärke. Du ska passera öster om märket (hindret ligger väster om märket). Topptecknen är två svarta koner med baserna mot varandra (pekar bort från varandra, ▲\n▼). Färgen är svart med ett gult band.",
+      "images": [
+        "bet_kard_ost.png"
+      ]
+    },
+    {
+      "id": "bet_kard_vast",
+      "section": "Sjökortsbeteckningar – Kardinalmärken",
+      "question_number": "79",
+      "question": "Vilken typ av kardinalmärke är detta? Hur ska du passera det, och hur ser dess färger och topptecken ut?",
+      "answer": "Västmärke. Du ska passera väster om märket (hindret ligger öster om märket). Topptecknen är två svarta koner med spetsarna mot varandra (pekar mot varandra, ▼\n▲). Färgen är gult med ett svart band.",
+      "images": [
+        "bet_kard_vast.png"
+      ]
+    },
+    {
+      "id": "bet_botten_s",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "80",
+      "question": "Vad betyder förkortningen \"S\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Sand / Sand",
+      "images": []
+    },
+    {
+      "id": "bet_botten_m",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "81",
+      "question": "Vad betyder förkortningen \"M\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Gyttja, Mudder / Mud",
+      "images": []
+    },
+    {
+      "id": "bet_botten_g",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "82",
+      "question": "Vad betyder förkortningen \"G\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Grus / Gravel",
+      "images": []
+    },
+    {
+      "id": "bet_botten_cb",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "83",
+      "question": "Vad betyder förkortningen \"Cb\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Kullersten / Cobbles",
+      "images": []
+    },
+    {
+      "id": "bet_botten_r",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "84",
+      "question": "Vad betyder förkortningen \"R\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Klippgrund / Rock; Rocky",
+      "images": []
+    },
+    {
+      "id": "bet_botten_co",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "85",
+      "question": "Vad betyder förkortningen \"Co\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Korall / Coral and Coraline algae",
+      "images": []
+    },
+    {
+      "id": "bet_botten_sh",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "86",
+      "question": "Vad betyder förkortningen \"Sh\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Snäckskal / Shells",
+      "images": []
+    },
+    {
+      "id": "bet_botten_f",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "87",
+      "question": "Vad betyder förkortningen \"f\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "fin / fine (t.ex. fS = fin sand)",
+      "images": []
+    },
+    {
+      "id": "bet_botten_c",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "88",
+      "question": "Vad betyder förkortningen \"c\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "grov / coarse (t.ex. cG = grovt grus)",
+      "images": []
+    },
+    {
+      "id": "bet_botten_so",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "89",
+      "question": "Vad betyder förkortningen \"so\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "lös / soft",
+      "images": []
+    },
+    {
+      "id": "bet_botten_cy",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "90",
+      "question": "Vad betyder förkortningen \"Cy\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Lera / Clay",
+      "images": []
+    },
+    {
+      "id": "bet_botten_si",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "91",
+      "question": "Vad betyder förkortningen \"Si\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Slam / Silt",
+      "images": []
+    },
+    {
+      "id": "bet_botten_st",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "92",
+      "question": "Vad betyder förkortningen \"St\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Stenar / Stones",
+      "images": []
+    },
+    {
+      "id": "bet_botten_p",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "93",
+      "question": "Vad betyder förkortningen \"P\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "Klapper / Pebbles",
+      "images": []
+    },
+    {
+      "id": "bet_botten_fs",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "94",
+      "question": "Vad betyder förkortningen \"fS\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "fin Sand",
+      "images": []
+    },
+    {
+      "id": "bet_botten_cg",
+      "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
+      "question_number": "95",
+      "question": "Vad betyder förkortningen \"cG\" för bottenbeskaffenhet i sjökortet?",
+      "answer": "grovt Grus",
+      "images": []
+    },
+    {
+      "id": "bet_fork_st",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "96",
+      "question": "Vad betyder förkortningen \"St\" i sjökortet?",
+      "answer": "Stora",
+      "images": []
+    },
+    {
+      "id": "bet_fork_l",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "97",
+      "question": "Vad betyder förkortningen \"L\" i sjökortet?",
+      "answer": "Lilla",
+      "images": []
+    },
+    {
+      "id": "bet_fork_y",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "98",
+      "question": "Vad betyder förkortningen \"Y\" i sjökortet?",
+      "answer": "Yttre",
+      "images": []
+    },
+    {
+      "id": "bet_fork_i",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "99",
+      "question": "Vad betyder förkortningen \"I\" i sjökortet?",
+      "answer": "Inre",
+      "images": []
+    },
+    {
+      "id": "bet_fork_m",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "100",
+      "question": "Vad betyder förkortningen \"M\" i sjökortet?",
+      "answer": "Mellan, Mellersta",
+      "images": []
+    },
+    {
+      "id": "bet_fork_s",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "101",
+      "question": "Vad betyder förkortningen \"S\" i sjökortet?",
+      "answer": "Södra",
+      "images": []
+    },
+    {
+      "id": "bet_fork_v",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "102",
+      "question": "Vad betyder förkortningen \"V\" i sjökortet?",
+      "answer": "Västra",
+      "images": []
+    },
+    {
+      "id": "bet_fork_n",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "103",
+      "question": "Vad betyder förkortningen \"N\" i sjökortet?",
+      "answer": "Norra",
+      "images": []
+    },
+    {
+      "id": "bet_fork_ö",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "104",
+      "question": "Vad betyder förkortningen \"Ö\" i sjökortet?",
+      "answer": "Östra",
+      "images": []
+    },
+    {
+      "id": "bet_fork_n",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "105",
+      "question": "Vad betyder förkortningen \"n\" i sjökortet?",
+      "answer": "nedre",
+      "images": []
+    },
+    {
+      "id": "bet_fork_ö",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "106",
+      "question": "Vad betyder förkortningen \"ö\" i sjökortet?",
+      "answer": "övre",
+      "images": []
+    },
+    {
+      "id": "bet_fork_fd",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "107",
+      "question": "Vad betyder förkortningen \"-fd\" i sjökortet?",
+      "answer": "-fjärd, fjord",
+      "images": []
+    },
+    {
+      "id": "bet_fork_v",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "108",
+      "question": "Vad betyder förkortningen \"-v\" i sjökortet?",
+      "answer": "-vik -en",
+      "images": []
+    },
+    {
+      "id": "bet_fork_h",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "109",
+      "question": "Vad betyder förkortningen \"-h\" i sjökortet?",
+      "answer": "-holm -en",
+      "images": []
+    },
+    {
+      "id": "bet_fork_u",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "110",
+      "question": "Vad betyder förkortningen \"-u\" i sjökortet?",
+      "answer": "-udde -n",
+      "images": []
+    },
+    {
+      "id": "bet_fork_bg",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "111",
+      "question": "Vad betyder förkortningen \"-bg\" i sjökortet?",
+      "answer": "-berg -et (även -bg:t)",
+      "images": []
+    },
+    {
+      "id": "bet_fork_b",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "112",
+      "question": "Vad betyder förkortningen \"-b\" i sjökortet?",
+      "answer": "-både -n, -båda -n",
+      "images": []
+    },
+    {
+      "id": "bet_fork_hl",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "113",
+      "question": "Vad betyder förkortningen \"-hl\" i sjökortet?",
+      "answer": "-hälla -an",
+      "images": []
+    },
+    {
+      "id": "bet_fork_kl",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "114",
+      "question": "Vad betyder förkortningen \"-kl\" i sjökortet?",
+      "answer": "-klabb -en",
+      "images": []
+    },
+    {
+      "id": "bet_fork_k",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "115",
+      "question": "Vad betyder förkortningen \"-k\" i sjökortet?",
+      "answer": "-kobb -en",
+      "images": []
+    },
+    {
+      "id": "bet_fork_sk",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "116",
+      "question": "Vad betyder förkortningen \"-sk\" i sjökortet?",
+      "answer": "-skär -et",
+      "images": []
+    },
+    {
+      "id": "bet_fork_skn",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "117",
+      "question": "Vad betyder förkortningen \"-sk:n\" i sjökortet?",
+      "answer": "-skären",
+      "images": []
+    },
+    {
+      "id": "bet_fork_pr",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "118",
+      "question": "Vad betyder förkortningen \"pr\" i sjökortet?",
+      "answer": "prickig",
+      "images": []
+    },
+    {
+      "id": "bet_fork_v",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "119",
+      "question": "Vad betyder förkortningen \"v\" i sjökortet?",
+      "answer": "vit (används ibland i stället för versal W)",
+      "images": []
+    },
+    {
+      "id": "bet_fork_sv",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "120",
+      "question": "Vad betyder förkortningen \"sv\" i sjökortet?",
+      "answer": "svart (används ibland i stället för versal B)",
+      "images": []
+    },
+    {
+      "id": "bet_fork_bl",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "121",
+      "question": "Vad betyder förkortningen \"bl\" i sjökortet?",
+      "answer": "blå (används ibland i stället för versal Bu)",
+      "images": []
+    },
+    {
+      "id": "bet_fork_gl",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "122",
+      "question": "Vad betyder förkortningen \"gl\" i sjökortet?",
+      "answer": "gul (används ibland i stället för versal Y)",
+      "images": []
+    },
+    {
+      "id": "bet_fork_r",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "123",
+      "question": "Vad betyder förkortningen \"r\" i sjökortet?",
+      "answer": "röd (används ibland i stället för versal R)",
+      "images": []
+    },
+    {
+      "id": "bet_fork_vi",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "124",
+      "question": "Vad betyder förkortningen \"vi\" i sjökortet?",
+      "answer": "violett",
+      "images": []
+    },
+    {
+      "id": "bet_fork_br",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "125",
+      "question": "Vad betyder förkortningen \"br\" i sjökortet?",
+      "answer": "brun",
+      "images": []
+    },
+    {
+      "id": "bet_fork_gr",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "126",
+      "question": "Vad betyder förkortningen \"gr\" i sjökortet?",
+      "answer": "grå",
+      "images": []
+    },
+    {
+      "id": "bet_fork_lj",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "127",
+      "question": "Vad betyder förkortningen \"lj\" i sjökortet?",
+      "answer": "ljus",
+      "images": []
+    },
+    {
+      "id": "bet_fork_mk",
+      "section": "Sjökortsbeteckningar – Diverse förkortningar",
+      "question_number": "128",
+      "question": "Vad betyder förkortningen \"mk\" i sjökortet?",
+      "answer": "mörk",
+      "images": []
+    },
+    {
+      "id": "bet_farg_w",
+      "section": "Sjökortsbeteckningar – Fyrljusfärger",
+      "question_number": "129",
+      "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"W\" i sjökortet?",
+      "answer": "Vit / White",
+      "images": []
+    },
+    {
+      "id": "bet_farg_r",
+      "section": "Sjökortsbeteckningar – Fyrljusfärger",
+      "question_number": "130",
+      "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"R\" i sjökortet?",
+      "answer": "Röd / Red",
+      "images": []
+    },
+    {
+      "id": "bet_farg_g",
+      "section": "Sjökortsbeteckningar – Fyrljusfärger",
+      "question_number": "131",
+      "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"G\" i sjökortet?",
+      "answer": "Grön / Green",
+      "images": []
+    },
+    {
+      "id": "bet_farg_bu",
+      "section": "Sjökortsbeteckningar – Fyrljusfärger",
+      "question_number": "132",
+      "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"Bu\" i sjökortet?",
+      "answer": "Blå / Blue",
+      "images": []
+    },
+    {
+      "id": "bet_farg_b",
+      "section": "Sjökortsbeteckningar – Fyrljusfärger",
+      "question_number": "133",
+      "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"B\" i sjökortet?",
+      "answer": "Svart / Black",
+      "images": []
+    },
+    {
+      "id": "bet_farg_y",
+      "section": "Sjökortsbeteckningar – Fyrljusfärger",
+      "question_number": "134",
+      "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"Y\" i sjökortet?",
+      "answer": "Gul / Yellow",
+      "images": []
+    },
+    {
+      "id": "bet_farg_or",
+      "section": "Sjökortsbeteckningar – Fyrljusfärger",
+      "question_number": "135",
+      "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"Or\" i sjökortet?",
+      "answer": "Orange / Orange",
+      "images": []
+    }
+  ],
+  "skyltar": [
+    {
+      "id": "wiki_skylt_1",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "1",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Linfärja",
+      "images": [
+        "wiki_varningsmarken_Linfarja.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_2",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "2",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Livsfarlig_ledning",
+      "images": [
+        "wiki_varningsmarken_Livsfarlig_ledning.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_3",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "3",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Begränsad_höjd",
+      "images": [
+        "wiki_varningsmarken_Begransad_hojd.gif"
+      ]
+    },
+    {
+      "id": "wiki_skylt_4",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "4",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Begränsat_vattendjup",
+      "images": [
+        "wiki_varningsmarken_Begransat_vattendjup.gif"
+      ]
+    },
+    {
+      "id": "wiki_skylt_5",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "5",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Begränsad_bredd",
+      "images": [
+        "wiki_varningsmarken_Begransad_bredd.gif"
+      ]
+    },
+    {
+      "id": "wiki_skylt_6",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "6",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Rörlig_bro",
+      "images": [
+        "wiki_varningsmarken_Rorlig_bro.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_7",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "7",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Arbete_i_eller_vid_vatten",
+      "images": [
+        "wiki_varningsmarken_Arbete_i_eller_vid_vatten.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_8",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "8",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Badplats",
+      "images": [
+        "wiki_varningsmarken_Badplats.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_9",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "9",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Fiskeredskap",
+      "images": [
+        "wiki_varningsmarken_Fiskeredskap.gif"
+      ]
+    },
+    {
+      "id": "wiki_skylt_10",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "10",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Kabel",
+      "images": [
+        "wiki_varningsmarken_Kabel.gif"
+      ]
+    },
+    {
+      "id": "wiki_skylt_11",
+      "section": "Sjövägmärken – Varningsmärken",
+      "question_number": "11",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Annan_fara",
+      "images": [
+        "wiki_varningsmarken_Annan_fara.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_12",
+      "section": "Sjövägmärken – Påbudsmärken",
+      "question_number": "12",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Stoppgräns",
+      "images": [
+        "wiki_pabudsmarken_Stoppgrans.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_13",
+      "section": "Sjövägmärken – Påbudsmärken",
+      "question_number": "13",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Avge_ljudsignal",
+      "images": [
+        "wiki_pabudsmarken_Avge_ljudsignal.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_14",
+      "section": "Sjövägmärken – Påbudsmärken",
+      "question_number": "14",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Påbjuden_körriktning",
+      "images": [
+        "wiki_pabudsmarken_Pabjuden_korriktning.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_15",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "15",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Fartbegränsning",
+      "images": [
+        "wiki_forbudsmarken_Fartbegransning.gif"
+      ]
+    },
+    {
+      "id": "wiki_skylt_16",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "16",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_sjötrafik",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_sjotrafik.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_17",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "17",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_fritidsbåtar",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_fritidsbatar.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_18",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "18",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_motorbåtar",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_motorbatar.gif"
+      ]
+    },
+    {
+      "id": "wiki_skylt_19",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "19",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_segelbåtar",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_segelbatar.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_20",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "20",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_vindsurfing",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_vindsurfing.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_21",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "21",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_vattenskidåkning",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_vattenskidakning.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_22",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "22",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_ankring",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_ankring.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_23",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "23",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_landstigning",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_landstigning.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_24",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "24",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_dykning",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_dykning.gif"
+      ]
+    },
+    {
+      "id": "wiki_skylt_25",
+      "section": "Sjövägmärken – Förbudsmärken",
+      "question_number": "25",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förbud_mot_förtöjning",
+      "images": [
+        "wiki_forbudsmarken_Forbud_mot_fortojning.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_26",
+      "section": "Sjövägmärken – Upplysningsmärken",
+      "question_number": "26",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Fritidsbåtstrafik_tillåten",
+      "images": [
+        "wiki_upplysningsmarken_Fritidsbatstrafik_tillaten.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_27",
+      "section": "Sjövägmärken – Upplysningsmärken",
+      "question_number": "27",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Motorbåtstrafik_tillåten",
+      "images": [
+        "wiki_upplysningsmarken_Motorbatstrafik_tillaten.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_28",
+      "section": "Sjövägmärken – Upplysningsmärken",
+      "question_number": "28",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Segelbåtstrafik_tillåten",
+      "images": [
+        "wiki_upplysningsmarken_Segelbatstrafik_tillaten.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_29",
+      "section": "Sjövägmärken – Upplysningsmärken",
+      "question_number": "29",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Vindsurfing_tillåten",
+      "images": [
+        "wiki_upplysningsmarken_Vindsurfing_tillaten.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_30",
+      "section": "Sjövägmärken – Upplysningsmärken",
+      "question_number": "30",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Vattenskidåkning_tillåten",
+      "images": [
+        "wiki_upplysningsmarken_Vattenskidakning_tillaten.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_31",
+      "section": "Sjövägmärken – Upplysningsmärken",
+      "question_number": "31",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Ankring_tillåten",
+      "images": [
+        "wiki_upplysningsmarken_Ankring_tillaten.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_32",
+      "section": "Sjövägmärken – Upplysningsmärken",
+      "question_number": "32",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Förtöjning_tillåten",
+      "images": [
+        "wiki_upplysningsmarken_Fortojning_tillaten.png"
+      ]
+    },
+    {
+      "id": "wiki_skylt_33",
+      "section": "Sjövägmärken – Upplysningsmärken",
+      "question_number": "33",
+      "question": "Vad betyder detta sjövägmärke?",
+      "answer": "Tillåtet_att_stanna_inom_området",
+      "images": [
+        "wiki_upplysningsmarken_Tillatet_att_stanna_inom_omradet.png"
+      ]
+    }
+  ],
+  "ljudsignaler": [
+    {
+      "id": "ljud_q1",
+      "section": "Manöversignaler",
+      "question_number": "1",
+      "question": "Vad innebär 1 kort signal (●) som manöversignal, och när får den avges?",
+      "answer": "Jag girar styrbord. Manöversignaler som talar om vad du gör får endast avges när man kan se det andra fartyget eller när det är risk för kollision.",
+      "images": [],
+      "answer_images": [
+        "ljud_manover.png"
+      ]
+    },
+    {
+      "id": "ljud_q2",
+      "section": "Manöversignaler",
+      "question_number": "2",
+      "question": "Vad innebär 2 korta signaler (●●) som manöversignal, och när får den avges?",
+      "answer": "Jag girar babord. Manöversignaler som talar om vad du gör får endast avges när man kan se det andra fartyget eller när det är risk för kollision.",
+      "images": [],
+      "answer_images": [
+        "ljud_manover.png"
+      ]
+    },
+    {
+      "id": "ljud_q3",
+      "section": "Manöversignaler",
+      "question_number": "3",
+      "question": "Vad innebär 3 korta signaler (●●●) som manöversignal, och när får den avges?",
+      "answer": "Jag backar. Manöversignaler som talar om vad du gör får endast avges när man kan se det andra fartyget eller när det är risk för kollision.",
+      "images": [],
+      "answer_images": [
+        "ljud_manover.png"
+      ]
+    },
+    {
+      "id": "ljud_q4",
+      "section": "Manöversignaler",
+      "question_number": "4",
+      "question": "När får manöversignaler som talar om vad du gör (t.ex. girar eller backar) avges?",
+      "answer": "De får endast avges när man kan se det andra fartyget eller när det är risk för kollision.",
+      "images": [],
+      "answer_images": [
+        "ljud_manover.png"
+      ]
+    },
+    {
+      "id": "ljud_q5",
+      "section": "Varningssignaler",
+      "question_number": "5",
+      "question": "Vad innebär minst 5 korta signaler (●●●●●) som varningssignal (tveksamhetssignal), och när används den?",
+      "answer": "Tveksamhetssignal. Den ges när man kan se det andra fartyget och oklarhet råder om dess manöver, eller när det finns risk för kollision (t.ex. för att varna den andra båten om att man är osäker på om de väjer).",
+      "images": [],
+      "answer_images": [
+        "ljud_varning.png"
+      ]
+    },
+    {
+      "id": "ljud_q6",
+      "section": "Varningssignaler",
+      "question_number": "6",
+      "question": "Vad innebär 1 lång signal (▬) som varningssignal (uppmärksamhetssignal)?",
+      "answer": "Uppmärksamhetssignal. Används för att påkalla uppmärksamhet, exempelvis när man närmar sig en krök eller en passage där sikten är skymd.",
+      "images": [],
+      "answer_images": [
+        "ljud_varning.png"
+      ]
+    },
+    {
+      "id": "ljud_q7",
+      "section": "Varningssignaler",
+      "question_number": "7",
+      "question": "Vid omkörning i en trång farled, vad innebär signalen 2 långa och 1 kort (▬ ▬ ●)?",
+      "answer": "Jag går om på er styrbordssida.",
+      "images": [],
+      "answer_images": [
+        "ljud_varning.png"
+      ]
+    },
+    {
+      "id": "ljud_q8",
+      "section": "Varningssignaler",
+      "question_number": "8",
+      "question": "Vid omkörning i en trång farled, vad innebär signalen 2 långa och 2 korta (▬ ▬ ●●)?",
+      "answer": "Jag går om på er babordssida.",
+      "images": [],
+      "answer_images": [
+        "ljud_varning.png"
+      ]
+    },
+    {
+      "id": "ljud_q9",
+      "section": "Varningssignaler",
+      "question_number": "9",
+      "question": "Hur svarar det upphunna fartyget i en trång farled om det samtycker till omkörningen (OK)?",
+      "answer": "Fartyget avger signalen ▬ ● ▬ ● (en lång, en kort, en lång, en kort).",
+      "images": [],
+      "answer_images": [
+        "ljud_varning.png"
+      ]
+    },
+    {
+      "id": "ljud_q10",
+      "section": "Varningssignaler",
+      "question_number": "10",
+      "question": "Hur svarar det upphunna fartyget i en trång farled om det INTE samtycker till omkörningen?",
+      "answer": "Fartyget avger minst 5 korta signaler (●●●●●) (tveksamhetssignal / samtycker inte).",
+      "images": [],
+      "answer_images": [
+        "ljud_varning.png"
+      ]
+    },
+    {
+      "id": "ljud_q11",
+      "section": "Varningssignaler",
+      "question_number": "11",
+      "question": "När får varningssignaler avges?",
+      "answer": "De får endast avges när man kan se det andra fartyget och oklarhet råder eller när det finns risk för kollision.",
+      "images": [],
+      "answer_images": [
+        "ljud_varning.png"
+      ]
+    },
+    {
+      "id": "ljud_q12",
+      "section": "Mistsignaler",
+      "question_number": "12",
+      "question": "Vilken mistsignal ska ett maskindrivet fartyg på väg som GÖR fart genom vattnet avge vid nedsatt sikt?",
+      "answer": "1 lång signal (▬) högst varannan minut.",
+      "images": [],
+      "answer_images": [
+        "ljud_dimma.png"
+      ]
+    },
+    {
+      "id": "ljud_q13",
+      "section": "Mistsignaler",
+      "question_number": "13",
+      "question": "Vilken mistsignal ska ett maskindrivet fartyg på väg som INTE gör fart genom vattnet (ligger stilla) avge vid nedsatt sikt?",
+      "answer": "2 långa signaler (▬ ▬) med ca 2 sekunders mellanrum, högst varannan minut.",
+      "images": [],
+      "answer_images": [
+        "ljud_dimma.png"
+      ]
+    },
+    {
+      "id": "ljud_q14",
+      "section": "Mistsignaler",
+      "question_number": "14",
+      "question": "Vilken mistsignal ska ej manöverfärdigt fartyg, fartyg med begränsad manöverförmåga, segelfartyg, fiskefartyg, bogserbåt eller fartyg hämmat av sitt djupgående avge vid nedsatt sikt?",
+      "answer": "1 lång och 2 korta signaler (▬ ● ●) högst varannan minut.",
+      "images": [],
+      "answer_images": [
+        "ljud_dimma.png"
+      ]
+    },
+    {
+      "id": "ljud_q15",
+      "section": "Mistsignaler",
+      "question_number": "15",
+      "question": "Vilken mistsignal avges vid nedsatt sikt av ett bemannat fartyg som bogseras?",
+      "answer": "1 lång och 3 korta signaler (▬ ● ● ●) högst varannan minut. Signalen ska om möjligt avges omedelbart efter bogserbåtens signal.",
+      "images": [],
+      "answer_images": [
+        "ljud_dimma.png"
+      ]
+    },
+    {
+      "id": "ljud_q16",
+      "section": "Mistsignaler",
+      "question_number": "16",
+      "question": "Vilken mistsignal ska ett ankrat fartyg under 100 meters längd avge vid nedsatt sikt?",
+      "answer": "Ska ringa hastigt i fartygsklockan i minst 5 sekunder varje minut.",
+      "images": [],
+      "answer_images": [
+        "ljud_dimma.png"
+      ]
+    },
+    {
+      "id": "ljud_q17",
+      "section": "Mistsignaler",
+      "question_number": "17",
+      "question": "Vilken mistsignal ska ett ankrat fartyg på 100 meter eller mer avge vid nedsatt sikt?",
+      "answer": "Ska ringa hastigt i fartygsklockan i fören (minst 5 sek/min) följt direkt av gonggong i aktern (minst 5 sek/min).",
+      "images": [],
+      "answer_images": [
+        "ljud_dimma.png"
+      ]
+    },
+    {
+      "id": "ljud_q18",
+      "section": "Mistsignaler",
+      "question_number": "18",
+      "question": "Vilken mistsignal ska ett fartyg på grund avge vid nedsatt sikt?",
+      "answer": "Ska slå 3 skilda slag i klockan, ringa hastigt i klockan (minst 5 sek), och slå 3 skilda slag i klockan. (Fartyg över 100 m avger även gonggong i aktern).",
+      "images": [],
+      "answer_images": [
+        "ljud_dimma.png"
+      ]
+    },
+    {
+      "id": "ljud_q19",
+      "section": "Mistsignaler",
+      "question_number": "19",
+      "question": "Vilken mistsignal ska ett fartyg under 12 meter avge vid nedsatt sikt?",
+      "answer": "Ska avge en kraftig ljudsignal (t.ex. med signalhorn) minst varannan minut.",
+      "images": [],
+      "answer_images": [
+        "ljud_dimma.png"
+      ]
+    }
+  ]
+}
