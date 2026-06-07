@@ -1196,21 +1196,11 @@
       ]
     },
     {
-      "id": "bet_djup_kurvor",
-      "section": "Sjökortsbeteckningar – Djup",
-      "question_number": "29",
-      "question": "Vad betyder de blå konturlinjerna i sjökortet?",
-      "answer": "Djupkurvor i hamnområde och skärgårdsort",
-      "images": [
-        "bet_djup_kurvor.png"
-      ]
-    },
-    {
       "id": "bet_djup_icke_sjomatt",
       "section": "Sjökortsbeteckningar – Djup",
-      "question_number": "30",
-      "question": "Vad betyder det tomma vita eller ljusblå området utan djupangivelser?",
-      "answer": "Icke sjömätt område",
+      "question_number": "29",
+      "question": "Vad betyder detta streckade område med blå vågräta linjer i sjökortet?",
+      "answer": "Icke sjömätt område (eller område med ofullständigt sjömätta djup)",
       "images": [
         "bet_djup_icke_sjomatt.png"
       ]
@@ -1218,7 +1208,7 @@
     {
       "id": "bet_grund_synlig_sten",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "31",
+      "question_number": "30",
       "question": "Vad betyder denna symbol?",
       "answer": "Alltid synlig sten eller skär",
       "images": [
@@ -1228,7 +1218,7 @@
     {
       "id": "bet_grund_branning",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "32",
+      "question_number": "31",
       "question": "Vad betyder denna symbol (asterisker/kryss omgivna av prickar)?",
       "answer": "Bränning/ar grund i eller nära medelvattenytan",
       "images": [
@@ -1238,7 +1228,7 @@
     {
       "id": "bet_grund_undervattenssten",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "33",
+      "question_number": "32",
       "question": "Vad betyder plustecknet (+) omgivet av fyra prickar?",
       "answer": "Undervattenssten, farlig för ytnavigering (i svenska sjökort grundare än 2 meter)",
       "images": [
@@ -1248,7 +1238,7 @@
     {
       "id": "bet_grund_vrak_synligt",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "34",
+      "question_number": "33",
       "question": "Vad betyder denna vrak-symbol?",
       "answer": "Vrak synligt över vattenytan",
       "images": [
@@ -1258,7 +1248,7 @@
     {
       "id": "bet_grund_vrak_djup_okant",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "35",
+      "question_number": "34",
       "question": "Vad betyder symbolerna 'Wk' respektive siffran med 'Wk' brevid?",
       "answer": "Vrak, över vilket djupet är okänt (vänster) respektive känt (höger)",
       "images": [
@@ -1268,7 +1258,7 @@
     {
       "id": "bet_grund_vrak_ej_farligt",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "36",
+      "question_number": "35",
       "question": "Vad betyder denna vrak-symbol?",
       "answer": "Vrak ej farligt för ytnavigering",
       "images": [
@@ -1278,7 +1268,7 @@
     {
       "id": "bet_grund_hinder",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "37",
+      "question_number": "36",
       "question": "Vad betyder beteckningen 'Obstn'?",
       "answer": "Hinder, på okänt och känt djup (förkortning av engelskans Obstruction)",
       "images": [
@@ -1288,7 +1278,7 @@
     {
       "id": "bet_grund_palar",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "38",
+      "question_number": "37",
       "question": "Vad betyder de små strecken/staplarna i sjökortet?",
       "answer": "Pålar eller stockar under vattenytan",
       "images": [
@@ -1298,7 +1288,7 @@
     {
       "id": "bet_grund_fiskodling",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "39",
+      "question_number": "38",
       "question": "Vad betyder denna symbol (nätliknande ramar)?",
       "answer": "Fiskodling",
       "images": [
@@ -1308,7 +1298,7 @@
     {
       "id": "bet_grund_oren_botten",
       "section": "Sjökortsbeteckningar – Grund, vrak & hinder",
-      "question_number": "40",
+      "question_number": "39",
       "question": "Vad betyder brädgården (#) i sjökortet?",
       "answer": "Oren botten, rester av vrak eller andra hinder",
       "images": [
@@ -1318,7 +1308,7 @@
     {
       "id": "bet_offshore_kabel",
       "section": "Sjökortsbeteckningar – Offshoreanläggningar",
-      "question_number": "41",
+      "question_number": "40",
       "question": "Vad betyder denna vågiga rosa/lila linje?",
       "answer": "Undervattenskabel",
       "images": [
@@ -1328,7 +1318,7 @@
     {
       "id": "bet_offshore_kabel_el",
       "section": "Sjökortsbeteckningar – Offshoreanläggningar",
-      "question_number": "42",
+      "question_number": "41",
       "question": "Vad betyder denna vågiga rosa linje med blixt-symboler?",
       "answer": "Undervattenskabel, el",
       "images": [
@@ -1338,7 +1328,7 @@
     {
       "id": "bet_offshore_rorledning",
       "section": "Sjökortsbeteckningar – Offshoreanläggningar",
-      "question_number": "43",
+      "question_number": "42",
       "question": "Vad betyder linjen med små cirklar på?",
       "answer": "Rörledning (t.ex. vatten, avlopp eller gas)",
       "images": [
@@ -1348,7 +1338,7 @@
     {
       "id": "bet_farled_utan_utmarkning",
       "section": "Sjökortsbeteckningar – Farleder",
-      "question_number": "44",
+      "question_number": "43",
       "question": "Vad betyder den streckade linjen i sjökortet?",
       "answer": "Farled utan fast utmärkning",
       "images": [
@@ -1358,7 +1348,7 @@
     {
       "id": "bet_farled_med_utmarkning",
       "section": "Sjökortsbeteckningar – Farleder",
-      "question_number": "45",
+      "question_number": "44",
       "question": "Vad betyder den heldragna linjen i sjökortet?",
       "answer": "Farled med fast utmärkning",
       "images": [
@@ -1368,7 +1358,7 @@
     {
       "id": "bet_farled_tss",
       "section": "Sjökortsbeteckningar – Farleder",
-      "question_number": "46",
+      "question_number": "45",
       "question": "Vad kallas detta system som reglerar båttrafik i vältrafikerade områden?",
       "answer": "Trafiksepareringssystem (TSS), trafiken skiljs åt av en separeringszon",
       "images": [
@@ -1378,7 +1368,7 @@
     {
       "id": "bet_farled_farja",
       "section": "Sjökortsbeteckningar – Farleder",
-      "question_number": "47",
+      "question_number": "46",
       "question": "Vad betyder denna streckade linje med texten 'Cable Ferry' eller 'Ferry'?",
       "answer": "Färjeled (friåkande färja)",
       "images": [
@@ -1388,7 +1378,7 @@
     {
       "id": "bet_farled_linfarja",
       "section": "Sjökortsbeteckningar – Farleder",
-      "question_number": "48",
+      "question_number": "47",
       "question": "Vad betyder denna symbol med texten 'Cable Ferry'?",
       "answer": "Linfärja (vajerfärja, mycket viktigt att se upp för då linan spänns upp bakom/framför färjan)",
       "images": [
@@ -1398,7 +1388,7 @@
     {
       "id": "bet_grans_maritim",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "49",
+      "question_number": "48",
       "question": "Vad betyder denna streckade lila linje?",
       "answer": "Maritim begränsningslinje",
       "images": [
@@ -1408,7 +1398,7 @@
     {
       "id": "bet_grans_forbud",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "50",
+      "question_number": "49",
       "question": "Vad betyder denna lila linje med streck inåt på sidorna?",
       "answer": "Förbudsområde",
       "images": [
@@ -1418,7 +1408,7 @@
     {
       "id": "bet_grans_ankring",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "51",
+      "question_number": "50",
       "question": "Vad betyder ankarsymbolen i sjökortet?",
       "answer": "Rekommenderad ankringsplats",
       "images": [
@@ -1428,7 +1418,7 @@
     {
       "id": "bet_grans_skydd",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "52",
+      "question_number": "51",
       "question": "Vad betyder linjen med fågel- och säl-symboler i lila?",
       "answer": "Gränser för fågel- och sälskyddsområde (ofta med landstigningsförbud under häckningsperioden)",
       "images": [
@@ -1438,7 +1428,7 @@
     {
       "id": "bet_grans_varning_botten",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "53",
+      "question_number": "52",
       "question": "Vad betyder denna lila linje med vågiga element?",
       "answer": "Varning för bottenaktiviteter (t.ex. ankringsförbud eller trålningsförbud pga. kablar)",
       "images": [
@@ -1448,7 +1438,7 @@
     {
       "id": "bet_grans_forbud_botten",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "54",
+      "question_number": "53",
       "question": "Vad betyder denna lila linje med kryss över vågorna?",
       "answer": "Förbud mot bottenaktiviteter (t.ex. ankring förbjuden)",
       "images": [
@@ -1458,7 +1448,7 @@
     {
       "id": "bet_grans_fartbegransning",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "55",
+      "question_number": "54",
       "question": "Vad betyder texten '5 kn' med en rosa pil under?",
       "answer": "Fartbegränsning (i pilens riktning)",
       "images": [
@@ -1468,7 +1458,7 @@
     {
       "id": "bet_grans_skjutomrade",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "56",
+      "question_number": "55",
       "question": "Vad betyder denna lila linje med tvärgående streck?",
       "answer": "Skjutområde (militärt övningsområde där tillträdesförbud kan gälla vid skjutning)",
       "images": [
@@ -1478,7 +1468,7 @@
     {
       "id": "bet_grans_ofullstandigt",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "57",
+      "question_number": "56",
       "question": "Vad betyder detta raster/mönster av rosa linjer?",
       "answer": "Område där djup större än 6 m är ofullständigt redovisade (faromområde för större fartyg)",
       "images": [
@@ -1488,7 +1478,7 @@
     {
       "id": "bet_grans_baslinje",
       "section": "Sjökortsbeteckningar – Områden & gränser",
-      "question_number": "58",
+      "question_number": "57",
       "question": "Vad betyder denna heldragna lila linje med cirklar på?",
       "answer": "Baslinje med baslinjepunkt. Gräns för inre vatten.",
       "images": [
@@ -1498,7 +1488,7 @@
     {
       "id": "bet_fritid_marina",
       "section": "Sjökortsbeteckningar – Fritidsbåtsanordningar",
-      "question_number": "59",
+      "question_number": "58",
       "question": "Vad betyder denna hamnsymbol i sjökortet?",
       "answer": "Småbåtshamn, Marina",
       "images": [
@@ -1508,7 +1498,7 @@
     {
       "id": "bet_fritid_gasthamn",
       "section": "Sjökortsbeteckningar – Fritidsbåtsanordningar",
-      "question_number": "60",
+      "question_number": "59",
       "question": "Vad betyder denna gästhamnssymbol?",
       "answer": "Gästplats, gästhamn",
       "images": [
@@ -1518,7 +1508,7 @@
     {
       "id": "bet_fritid_sopmaja",
       "section": "Sjökortsbeteckningar – Fritidsbåtsanordningar",
-      "question_number": "61",
+      "question_number": "60",
       "question": "Vad betyder denna symbol?",
       "answer": "Sopmaja, soptunna och/eller toalett",
       "images": [
@@ -1528,7 +1518,7 @@
     {
       "id": "bet_fyr_sektorbage",
       "section": "Sjökortsbeteckningar – Fyrar",
-      "question_number": "62",
+      "question_number": "61",
       "question": "Vad betyder denna sjökortssymbol för fyrar?",
       "answer": "Sektorbåge (visar fyrskenets olika färgsektorer)",
       "images": [
@@ -1538,7 +1528,7 @@
     {
       "id": "bet_fyr_ensfyrar",
       "section": "Sjökortsbeteckningar – Fyrar",
-      "question_number": "63",
+      "question_number": "62",
       "question": "Vad betyder denna sjökortssymbol för fyrar?",
       "answer": "Ensfyrar, 2 objekt i linje (används för att hålla sig i en farled genom att hålla de två fyrarna i linje)",
       "images": [
@@ -1548,7 +1538,7 @@
     {
       "id": "bet_fyr_sektorfyr",
       "section": "Sjökortsbeteckningar – Fyrar",
-      "question_number": "64",
+      "question_number": "63",
       "question": "Vad betyder denna sjökortssymbol för fyrar?",
       "answer": "Sektorfyr. En sektor avsiktligt begränsad (fyrens ljus syns bara inom vissa vinklar)",
       "images": [
@@ -1558,7 +1548,7 @@
     {
       "id": "bet_fyr_tillfallig",
       "section": "Sjökortsbeteckningar – Fyrar",
-      "question_number": "65",
+      "question_number": "64",
       "question": "Vad betyder denna sjökortssymbol för fyrar?",
       "answer": "Fyr som tänds tillfälligt vid speciella behov (t.ex. för fiskare eller färjor). Betecknas ofta med (occas) eller FR (occas).",
       "images": [
@@ -1568,7 +1558,7 @@
     {
       "id": "bet_fyr_slackt",
       "section": "Sjökortsbeteckningar – Fyrar",
-      "question_number": "66",
+      "question_number": "65",
       "question": "Vad betyder denna sjökortssymbol för fyrar?",
       "answer": "Släckt f.d. fyr. Betecknas med (exting).",
       "images": [
@@ -1578,7 +1568,7 @@
     {
       "id": "bet_fyr_fasadbelysning",
       "section": "Sjökortsbeteckningar – Fyrar",
-      "question_number": "67",
+      "question_number": "66",
       "question": "Vad betyder denna sjökortssymbol för fyrar?",
       "answer": "Fasadbelysning (belyst fasad eller landmärke, t.ex. en fyr eller kyrka)",
       "images": [
@@ -1588,7 +1578,7 @@
     {
       "id": "bet_sjo_styrbord",
       "section": "Sjökortsbeteckningar – Sjömärken",
-      "question_number": "68",
+      "question_number": "67",
       "question": "Vad visar denna sjökortssymbol?",
       "answer": "Styrbordsmärken, gröna (utmärker styrbordssidan av farleden i farledens huvudriktning)",
       "images": [
@@ -1598,7 +1588,7 @@
     {
       "id": "bet_sjo_babord",
       "section": "Sjökortsbeteckningar – Sjömärken",
-      "question_number": "69",
+      "question_number": "68",
       "question": "Vad visar denna sjökortssymbol?",
       "answer": "Babordsmärken, röda (utmärker babordssidan av farleden i farledens huvudriktning)",
       "images": [
@@ -1608,7 +1598,7 @@
     {
       "id": "bet_sjo_punkt",
       "section": "Sjökortsbeteckningar – Sjömärken",
-      "question_number": "70",
+      "question_number": "69",
       "question": "Vad visar denna sjökortssymbol?",
       "answer": "Punktmärken, svart/rött i horisontella band med två svarta klot som topptecken. Utmärker friliggande hinder av begränsad utsträckning som kan passeras på alla sidor.",
       "images": [
@@ -1618,7 +1608,7 @@
     {
       "id": "bet_sjo_mittled",
       "section": "Sjökortsbeteckningar – Sjömärken",
-      "question_number": "71",
+      "question_number": "70",
       "question": "Vad visar denna sjökortssymbol?",
       "answer": "Mittledsmärken, rött/vitt i vertikala band med ett rött klot som topptecken. Utmärker fritt vatten runt om märket (t.ex. farledens mitt eller angöring).",
       "images": [
@@ -1628,7 +1618,7 @@
     {
       "id": "bet_sjo_special",
       "section": "Sjökortsbeteckningar – Sjömärken",
-      "question_number": "72",
+      "question_number": "71",
       "question": "Vad visar denna sjökortssymbol?",
       "answer": "Specialmärken, gula (utmärker områden eller objekt för speciella ändamål, t.ex. kablar, rörledningar, gränser för badplatser eller fartbegränsningar). Gult märke med ett gult liggande kryss (X) som topptecken.",
       "images": [
@@ -1638,7 +1628,7 @@
     {
       "id": "bet_sjo_fast",
       "section": "Sjökortsbeteckningar – Sjömärken",
-      "question_number": "73",
+      "question_number": "72",
       "question": "Vad visar denna sjökortssymbol?",
       "answer": "Fasta sjömärken (t.ex. kummel, båk, stång, tavla, sjömärke samt målad fläck). Står fast förankrade på land eller grund.",
       "images": [
@@ -1648,7 +1638,7 @@
     {
       "id": "bet_sjo_ensmarken",
       "section": "Sjökortsbeteckningar – Sjömärken",
-      "question_number": "74",
+      "question_number": "73",
       "question": "Vad visar denna sjökortssymbol?",
       "answer": "Ensmärken (2 Bns ╪ 270.5° = 2 fasta sjömärken i linje som visar en ensledning med bäring 270.5°)",
       "images": [
@@ -1658,7 +1648,7 @@
     {
       "id": "bet_sjo_pilen",
       "section": "Sjökortsbeteckningar – Sjömärken",
-      "question_number": "75",
+      "question_number": "74",
       "question": "Vad visar denna sjökortssymbol?",
       "answer": "Huvudriktningspil (den rosa pilen med en röd och en grön cirkel bredvid visar utmärkningens huvudriktning)",
       "images": [
@@ -1668,7 +1658,7 @@
     {
       "id": "bet_kard_nord",
       "section": "Sjökortsbeteckningar – Kardinalmärken",
-      "question_number": "76",
+      "question_number": "75",
       "question": "Vilken typ av kardinalmärke är detta? Hur ska du passera det, och hur ser dess färger och topptecken ut?",
       "answer": "Nordmärke. Du ska passera norr om märket (hindret ligger söder om märket). Topptecknen är två svarta koner som pekar uppåt (▲▲). Färgen är svart över gult.",
       "images": [
@@ -1678,7 +1668,7 @@
     {
       "id": "bet_kard_syd",
       "section": "Sjökortsbeteckningar – Kardinalmärken",
-      "question_number": "77",
+      "question_number": "76",
       "question": "Vilken typ av kardinalmärke är detta? Hur ska du passera det, och hur ser dess färger och topptecken ut?",
       "answer": "Sydmärke. Du ska passera söder om märket (hindret ligger norr om märket). Topptecknen är två svarta koner som pekar nedåt (▼▼). Färgen är gult över svart.",
       "images": [
@@ -1688,7 +1678,7 @@
     {
       "id": "bet_kard_ost",
       "section": "Sjökortsbeteckningar – Kardinalmärken",
-      "question_number": "78",
+      "question_number": "77",
       "question": "Vilken typ av kardinalmärke är detta? Hur ska du passera det, och hur ser dess färger och topptecken ut?",
       "answer": "Ostmärke. Du ska passera öster om märket (hindret ligger väster om märket). Topptecknen är två svarta koner med baserna mot varandra (pekar bort från varandra, ▲\n▼). Färgen är svart med ett gult band.",
       "images": [
@@ -1698,7 +1688,7 @@
     {
       "id": "bet_kard_vast",
       "section": "Sjökortsbeteckningar – Kardinalmärken",
-      "question_number": "79",
+      "question_number": "78",
       "question": "Vilken typ av kardinalmärke är detta? Hur ska du passera det, och hur ser dess färger och topptecken ut?",
       "answer": "Västmärke. Du ska passera väster om märket (hindret ligger öster om märket). Topptecknen är två svarta koner med spetsarna mot varandra (pekar mot varandra, ▼\n▲). Färgen är gult med ett svart band.",
       "images": [
@@ -1708,7 +1698,7 @@
     {
       "id": "bet_botten_s",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "80",
+      "question_number": "79",
       "question": "Vad betyder förkortningen \"S\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Sand / Sand",
       "images": []
@@ -1716,7 +1706,7 @@
     {
       "id": "bet_botten_m",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "81",
+      "question_number": "80",
       "question": "Vad betyder förkortningen \"M\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Gyttja, Mudder / Mud",
       "images": []
@@ -1724,7 +1714,7 @@
     {
       "id": "bet_botten_g",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "82",
+      "question_number": "81",
       "question": "Vad betyder förkortningen \"G\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Grus / Gravel",
       "images": []
@@ -1732,7 +1722,7 @@
     {
       "id": "bet_botten_cb",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "83",
+      "question_number": "82",
       "question": "Vad betyder förkortningen \"Cb\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Kullersten / Cobbles",
       "images": []
@@ -1740,7 +1730,7 @@
     {
       "id": "bet_botten_r",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "84",
+      "question_number": "83",
       "question": "Vad betyder förkortningen \"R\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Klippgrund / Rock; Rocky",
       "images": []
@@ -1748,7 +1738,7 @@
     {
       "id": "bet_botten_co",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "85",
+      "question_number": "84",
       "question": "Vad betyder förkortningen \"Co\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Korall / Coral and Coraline algae",
       "images": []
@@ -1756,7 +1746,7 @@
     {
       "id": "bet_botten_sh",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "86",
+      "question_number": "85",
       "question": "Vad betyder förkortningen \"Sh\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Snäckskal / Shells",
       "images": []
@@ -1764,7 +1754,7 @@
     {
       "id": "bet_botten_f",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "87",
+      "question_number": "86",
       "question": "Vad betyder förkortningen \"f\" för bottenbeskaffenhet i sjökortet?",
       "answer": "fin / fine (t.ex. fS = fin sand)",
       "images": []
@@ -1772,7 +1762,7 @@
     {
       "id": "bet_botten_c",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "88",
+      "question_number": "87",
       "question": "Vad betyder förkortningen \"c\" för bottenbeskaffenhet i sjökortet?",
       "answer": "grov / coarse (t.ex. cG = grovt grus)",
       "images": []
@@ -1780,7 +1770,7 @@
     {
       "id": "bet_botten_so",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "89",
+      "question_number": "88",
       "question": "Vad betyder förkortningen \"so\" för bottenbeskaffenhet i sjökortet?",
       "answer": "lös / soft",
       "images": []
@@ -1788,7 +1778,7 @@
     {
       "id": "bet_botten_cy",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "90",
+      "question_number": "89",
       "question": "Vad betyder förkortningen \"Cy\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Lera / Clay",
       "images": []
@@ -1796,7 +1786,7 @@
     {
       "id": "bet_botten_si",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "91",
+      "question_number": "90",
       "question": "Vad betyder förkortningen \"Si\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Slam / Silt",
       "images": []
@@ -1804,7 +1794,7 @@
     {
       "id": "bet_botten_st",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "92",
+      "question_number": "91",
       "question": "Vad betyder förkortningen \"St\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Stenar / Stones",
       "images": []
@@ -1812,7 +1802,7 @@
     {
       "id": "bet_botten_p",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "93",
+      "question_number": "92",
       "question": "Vad betyder förkortningen \"P\" för bottenbeskaffenhet i sjökortet?",
       "answer": "Klapper / Pebbles",
       "images": []
@@ -1820,7 +1810,7 @@
     {
       "id": "bet_botten_fs",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "94",
+      "question_number": "93",
       "question": "Vad betyder förkortningen \"fS\" för bottenbeskaffenhet i sjökortet?",
       "answer": "fin Sand",
       "images": []
@@ -1828,7 +1818,7 @@
     {
       "id": "bet_botten_cg",
       "section": "Sjökortsbeteckningar – Bottenbeskaffenhet",
-      "question_number": "95",
+      "question_number": "94",
       "question": "Vad betyder förkortningen \"cG\" för bottenbeskaffenhet i sjökortet?",
       "answer": "grovt Grus",
       "images": []
@@ -1836,7 +1826,7 @@
     {
       "id": "bet_fork_st",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "96",
+      "question_number": "95",
       "question": "Vad betyder förkortningen \"St\" i sjökortet?",
       "answer": "Stora",
       "images": []
@@ -1844,7 +1834,7 @@
     {
       "id": "bet_fork_l",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "97",
+      "question_number": "96",
       "question": "Vad betyder förkortningen \"L\" i sjökortet?",
       "answer": "Lilla",
       "images": []
@@ -1852,7 +1842,7 @@
     {
       "id": "bet_fork_y",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "98",
+      "question_number": "97",
       "question": "Vad betyder förkortningen \"Y\" i sjökortet?",
       "answer": "Yttre",
       "images": []
@@ -1860,7 +1850,7 @@
     {
       "id": "bet_fork_i",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "99",
+      "question_number": "98",
       "question": "Vad betyder förkortningen \"I\" i sjökortet?",
       "answer": "Inre",
       "images": []
@@ -1868,7 +1858,7 @@
     {
       "id": "bet_fork_m",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "100",
+      "question_number": "99",
       "question": "Vad betyder förkortningen \"M\" i sjökortet?",
       "answer": "Mellan, Mellersta",
       "images": []
@@ -1876,7 +1866,7 @@
     {
       "id": "bet_fork_s",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "101",
+      "question_number": "100",
       "question": "Vad betyder förkortningen \"S\" i sjökortet?",
       "answer": "Södra",
       "images": []
@@ -1884,7 +1874,7 @@
     {
       "id": "bet_fork_v",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "102",
+      "question_number": "101",
       "question": "Vad betyder förkortningen \"V\" i sjökortet?",
       "answer": "Västra",
       "images": []
@@ -1892,7 +1882,7 @@
     {
       "id": "bet_fork_n",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "103",
+      "question_number": "102",
       "question": "Vad betyder förkortningen \"N\" i sjökortet?",
       "answer": "Norra",
       "images": []
@@ -1900,7 +1890,7 @@
     {
       "id": "bet_fork_ö",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "104",
+      "question_number": "103",
       "question": "Vad betyder förkortningen \"Ö\" i sjökortet?",
       "answer": "Östra",
       "images": []
@@ -1908,7 +1898,7 @@
     {
       "id": "bet_fork_n",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "105",
+      "question_number": "104",
       "question": "Vad betyder förkortningen \"n\" i sjökortet?",
       "answer": "nedre",
       "images": []
@@ -1916,7 +1906,7 @@
     {
       "id": "bet_fork_ö",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "106",
+      "question_number": "105",
       "question": "Vad betyder förkortningen \"ö\" i sjökortet?",
       "answer": "övre",
       "images": []
@@ -1924,7 +1914,7 @@
     {
       "id": "bet_fork_fd",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "107",
+      "question_number": "106",
       "question": "Vad betyder förkortningen \"-fd\" i sjökortet?",
       "answer": "-fjärd, fjord",
       "images": []
@@ -1932,7 +1922,7 @@
     {
       "id": "bet_fork_v",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "108",
+      "question_number": "107",
       "question": "Vad betyder förkortningen \"-v\" i sjökortet?",
       "answer": "-vik -en",
       "images": []
@@ -1940,7 +1930,7 @@
     {
       "id": "bet_fork_h",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "109",
+      "question_number": "108",
       "question": "Vad betyder förkortningen \"-h\" i sjökortet?",
       "answer": "-holm -en",
       "images": []
@@ -1948,7 +1938,7 @@
     {
       "id": "bet_fork_u",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "110",
+      "question_number": "109",
       "question": "Vad betyder förkortningen \"-u\" i sjökortet?",
       "answer": "-udde -n",
       "images": []
@@ -1956,7 +1946,7 @@
     {
       "id": "bet_fork_bg",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "111",
+      "question_number": "110",
       "question": "Vad betyder förkortningen \"-bg\" i sjökortet?",
       "answer": "-berg -et (även -bg:t)",
       "images": []
@@ -1964,7 +1954,7 @@
     {
       "id": "bet_fork_b",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "112",
+      "question_number": "111",
       "question": "Vad betyder förkortningen \"-b\" i sjökortet?",
       "answer": "-både -n, -båda -n",
       "images": []
@@ -1972,7 +1962,7 @@
     {
       "id": "bet_fork_hl",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "113",
+      "question_number": "112",
       "question": "Vad betyder förkortningen \"-hl\" i sjökortet?",
       "answer": "-hälla -an",
       "images": []
@@ -1980,7 +1970,7 @@
     {
       "id": "bet_fork_kl",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "114",
+      "question_number": "113",
       "question": "Vad betyder förkortningen \"-kl\" i sjökortet?",
       "answer": "-klabb -en",
       "images": []
@@ -1988,7 +1978,7 @@
     {
       "id": "bet_fork_k",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "115",
+      "question_number": "114",
       "question": "Vad betyder förkortningen \"-k\" i sjökortet?",
       "answer": "-kobb -en",
       "images": []
@@ -1996,7 +1986,7 @@
     {
       "id": "bet_fork_sk",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "116",
+      "question_number": "115",
       "question": "Vad betyder förkortningen \"-sk\" i sjökortet?",
       "answer": "-skär -et",
       "images": []
@@ -2004,7 +1994,7 @@
     {
       "id": "bet_fork_skn",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "117",
+      "question_number": "116",
       "question": "Vad betyder förkortningen \"-sk:n\" i sjökortet?",
       "answer": "-skären",
       "images": []
@@ -2012,7 +2002,7 @@
     {
       "id": "bet_fork_pr",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "118",
+      "question_number": "117",
       "question": "Vad betyder förkortningen \"pr\" i sjökortet?",
       "answer": "prickig",
       "images": []
@@ -2020,7 +2010,7 @@
     {
       "id": "bet_fork_v",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "119",
+      "question_number": "118",
       "question": "Vad betyder förkortningen \"v\" i sjökortet?",
       "answer": "vit (används ibland i stället för versal W)",
       "images": []
@@ -2028,7 +2018,7 @@
     {
       "id": "bet_fork_sv",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "120",
+      "question_number": "119",
       "question": "Vad betyder förkortningen \"sv\" i sjökortet?",
       "answer": "svart (används ibland i stället för versal B)",
       "images": []
@@ -2036,7 +2026,7 @@
     {
       "id": "bet_fork_bl",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "121",
+      "question_number": "120",
       "question": "Vad betyder förkortningen \"bl\" i sjökortet?",
       "answer": "blå (används ibland i stället för versal Bu)",
       "images": []
@@ -2044,7 +2034,7 @@
     {
       "id": "bet_fork_gl",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "122",
+      "question_number": "121",
       "question": "Vad betyder förkortningen \"gl\" i sjökortet?",
       "answer": "gul (används ibland i stället för versal Y)",
       "images": []
@@ -2052,7 +2042,7 @@
     {
       "id": "bet_fork_r",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "123",
+      "question_number": "122",
       "question": "Vad betyder förkortningen \"r\" i sjökortet?",
       "answer": "röd (används ibland i stället för versal R)",
       "images": []
@@ -2060,7 +2050,7 @@
     {
       "id": "bet_fork_vi",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "124",
+      "question_number": "123",
       "question": "Vad betyder förkortningen \"vi\" i sjökortet?",
       "answer": "violett",
       "images": []
@@ -2068,7 +2058,7 @@
     {
       "id": "bet_fork_br",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "125",
+      "question_number": "124",
       "question": "Vad betyder förkortningen \"br\" i sjökortet?",
       "answer": "brun",
       "images": []
@@ -2076,7 +2066,7 @@
     {
       "id": "bet_fork_gr",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "126",
+      "question_number": "125",
       "question": "Vad betyder förkortningen \"gr\" i sjökortet?",
       "answer": "grå",
       "images": []
@@ -2084,7 +2074,7 @@
     {
       "id": "bet_fork_lj",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "127",
+      "question_number": "126",
       "question": "Vad betyder förkortningen \"lj\" i sjökortet?",
       "answer": "ljus",
       "images": []
@@ -2092,7 +2082,7 @@
     {
       "id": "bet_fork_mk",
       "section": "Sjökortsbeteckningar – Diverse förkortningar",
-      "question_number": "128",
+      "question_number": "127",
       "question": "Vad betyder förkortningen \"mk\" i sjökortet?",
       "answer": "mörk",
       "images": []
@@ -2100,7 +2090,7 @@
     {
       "id": "bet_farg_w",
       "section": "Sjökortsbeteckningar – Fyrljusfärger",
-      "question_number": "129",
+      "question_number": "128",
       "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"W\" i sjökortet?",
       "answer": "Vit / White",
       "images": []
@@ -2108,7 +2098,7 @@
     {
       "id": "bet_farg_r",
       "section": "Sjökortsbeteckningar – Fyrljusfärger",
-      "question_number": "130",
+      "question_number": "129",
       "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"R\" i sjökortet?",
       "answer": "Röd / Red",
       "images": []
@@ -2116,7 +2106,7 @@
     {
       "id": "bet_farg_g",
       "section": "Sjökortsbeteckningar – Fyrljusfärger",
-      "question_number": "131",
+      "question_number": "130",
       "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"G\" i sjökortet?",
       "answer": "Grön / Green",
       "images": []
@@ -2124,7 +2114,7 @@
     {
       "id": "bet_farg_bu",
       "section": "Sjökortsbeteckningar – Fyrljusfärger",
-      "question_number": "132",
+      "question_number": "131",
       "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"Bu\" i sjökortet?",
       "answer": "Blå / Blue",
       "images": []
@@ -2132,7 +2122,7 @@
     {
       "id": "bet_farg_b",
       "section": "Sjökortsbeteckningar – Fyrljusfärger",
-      "question_number": "133",
+      "question_number": "132",
       "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"B\" i sjökortet?",
       "answer": "Svart / Black",
       "images": []
@@ -2140,7 +2130,7 @@
     {
       "id": "bet_farg_y",
       "section": "Sjökortsbeteckningar – Fyrljusfärger",
-      "question_number": "134",
+      "question_number": "133",
       "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"Y\" i sjökortet?",
       "answer": "Gul / Yellow",
       "images": []
@@ -2148,7 +2138,7 @@
     {
       "id": "bet_farg_or",
       "section": "Sjökortsbeteckningar – Fyrljusfärger",
-      "question_number": "135",
+      "question_number": "134",
       "question": "Vad betyder fyrljus- eller sjömärkesfärgen \"Or\" i sjökortet?",
       "answer": "Orange / Orange",
       "images": []
